@@ -1,0 +1,7002 @@
+[
+    {
+        "name": "Home Touch",
+        "coordinates": [
+            -0.1675613,
+            5.587401
+        ]
+    },
+    {
+        "name": "Roman Ridge 2nd",
+        "coordinates": [
+            -0.198887,
+            5.601804
+        ]
+    },
+    {
+        "name": "Bus Stop",
+        "coordinates": [
+            -0.845144,
+            9.4498916
+        ]
+    },
+    {
+        "name": "Sowutuom",
+        "coordinates": [
+            -0.2834304,
+            5.6247652
+        ]
+    },
+    {
+        "name": "Under Bridge",
+        "coordinates": [
+            -0.0435957,
+            5.6747917
+        ]
+    },
+    {
+        "name": "Bus Stop",
+        "coordinates": [
+            0.5939664,
+            5.9985741
+        ]
+    },
+    {
+        "name": "Bus Stop",
+        "coordinates": [
+            -0.8210208,
+            9.392959
+        ]
+    },
+    {
+        "name": "Kokrobite",
+        "coordinates": [
+            -0.3666181,
+            5.4983674
+        ]
+    },
+    {
+        "name": "ACP Junction",
+        "coordinates": [
+            -0.2776609,
+            5.68398
+        ]
+    },
+    {
+        "name": "Bus Stop",
+        "coordinates": [
+            -1.7024997,
+            8.0854029
+        ]
+    },
+    {
+        "name": "Techiman, Wenchi",
+        "coordinates": [
+            -2.3257823,
+            7.3382671
+        ]
+    },
+    {
+        "name": "Kumasi, Wenchi",
+        "coordinates": [
+            -1.9375596,
+            7.5843331
+        ]
+    },
+    {
+        "name": "Agege Last Stop",
+        "coordinates": [
+            -0.2639939,
+            5.5293198
+        ]
+    },
+    {
+        "name": "Dansoman Last Stop",
+        "coordinates": [
+            -0.2653038,
+            5.5300359
+        ]
+    },
+    {
+        "name": "Transformer Junction",
+        "coordinates": [
+            -0.0626969,
+            5.6369826
+        ]
+    },
+    {
+        "name": "Bus Stop",
+        "coordinates": [
+            -1.5906859,
+            6.6420287
+        ]
+    },
+    {
+        "name": "Tro-Tro Station",
+        "coordinates": [
+            -1.2768383,
+            5.6963933
+        ]
+    },
+    {
+        "name": "Sunyani Station",
+        "coordinates": [
+            -1.9445386,
+            7.5819189
+        ]
+    },
+    {
+        "name": "Wenchi Taxi Station",
+        "coordinates": [
+            -2.1068142,
+            7.7398539
+        ]
+    },
+    {
+        "name": "Nkwanta bus stop",
+        "coordinates": [
+            0.5212015,
+            8.262565
+        ]
+    },
+    {
+        "name": "Station",
+        "coordinates": [
+            -0.7218724,
+            9.8934964
+        ]
+    },
+    {
+        "name": "Tamaligu Station",
+        "coordinates": [
+            -0.7330058,
+            9.8518325
+        ]
+    },
+    {
+        "name": "Main Station",
+        "coordinates": [
+            -0.7136549,
+            9.8463703
+        ]
+    },
+    {
+        "name": "Nakpanzoo Bus Stop",
+        "coordinates": [
+            -0.817865,
+            9.7559874
+        ]
+    },
+    {
+        "name": "Karaga Junction Bus Stop",
+        "coordinates": [
+            -0.822756,
+            9.7455431
+        ]
+    },
+    {
+        "name": "Bus Stop",
+        "coordinates": [
+            -0.9381442,
+            9.801644
+        ]
+    },
+    {
+        "name": "Shiashie",
+        "coordinates": [
+            -0.1764355,
+            5.6276839
+        ]
+    },
+    {
+        "name": "Mobil / Kanda Overhead",
+        "coordinates": [
+            -0.1975096,
+            5.5738018
+        ]
+    },
+    {
+        "name": "Bus Stop",
+        "coordinates": [
+            -0.9313613,
+            5.2778956
+        ]
+    },
+    {
+        "name": "Bus Stop",
+        "coordinates": [
+            -0.8742784,
+            5.3263518
+        ]
+    },
+    {
+        "name": "Bus Stop",
+        "coordinates": [
+            -1.4711111,
+            6.1438784
+        ]
+    },
+    {
+        "name": "Bus Stop",
+        "coordinates": [
+            -1.484461,
+            6.2150815
+        ]
+    },
+    {
+        "name": "Bus Stop",
+        "coordinates": [
+            -1.4887612,
+            6.2320358
+        ]
+    },
+    {
+        "name": "Bus Stop",
+        "coordinates": [
+            -1.9702916,
+            7.411872
+        ]
+    },
+    {
+        "name": "Bus Stop",
+        "coordinates": [
+            -1.9767177,
+            7.4325656
+        ]
+    },
+    {
+        "name": "Bus Stop",
+        "coordinates": [
+            -1.9713284,
+            7.4602309
+        ]
+    },
+    {
+        "name": "Nyamekye",
+        "coordinates": [
+            -0.256375,
+            5.6028962
+        ]
+    },
+    {
+        "name": "Tesano",
+        "coordinates": [
+            -0.2259544,
+            5.604561
+        ]
+    },
+    {
+        "name": "Abofu",
+        "coordinates": [
+            -0.2229509,
+            5.6139906
+        ]
+    },
+    {
+        "name": "Abofu",
+        "coordinates": [
+            -0.2228677,
+            5.613729
+        ]
+    },
+    {
+        "name": "Tesano",
+        "coordinates": [
+            -0.2256592,
+            5.6041936
+        ]
+    },
+    {
+        "name": "Labone",
+        "coordinates": [
+            -0.1725142,
+            5.5621452
+        ]
+    },
+    {
+        "name": "Labone",
+        "coordinates": [
+            -0.1735575,
+            5.5629928
+        ]
+    },
+    {
+        "name": "Supply Bus Stop",
+        "coordinates": [
+            -0.1569622,
+            5.5904487
+        ]
+    },
+    {
+        "name": "Accra Mall Roundabout",
+        "coordinates": [
+            -0.1747326,
+            5.6220398
+        ]
+    },
+    {
+        "name": "Accra Mall",
+        "coordinates": [
+            -0.1740477,
+            5.6227677
+        ]
+    },
+    {
+        "name": "Tech Junction",
+        "coordinates": [
+            -1.5734545,
+            6.6867141
+        ]
+    },
+    {
+        "name": "Top High",
+        "coordinates": [
+            -1.5779659,
+            6.6872394
+        ]
+    },
+    {
+        "name": "Children's Park",
+        "coordinates": [
+            -1.6046016,
+            6.6895699
+        ]
+    },
+    {
+        "name": "Blue Gate",
+        "coordinates": [
+            -1.5262121,
+            6.7097669
+        ]
+    },
+    {
+        "name": "Kejetia Junction",
+        "coordinates": [
+            -1.6216135,
+            6.6972208
+        ]
+    },
+    {
+        "name": "Asafo Market",
+        "coordinates": [
+            -1.6155196,
+            6.6892736
+        ]
+    },
+    {
+        "name": "Dzorwulu Junction",
+        "coordinates": [
+            -0.1944473,
+            5.6173445
+        ]
+    },
+    {
+        "name": "Campus Shuttle- Start location",
+        "coordinates": [
+            -1.5675779,
+            6.6752942
+        ]
+    },
+    {
+        "name": "Odorna",
+        "coordinates": [
+            -0.2173233,
+            5.5673255
+        ]
+    },
+    {
+        "name": "Circle",
+        "coordinates": [
+            -0.2132665,
+            5.569608
+        ]
+    },
+    {
+        "name": "Bawaleshie Second",
+        "coordinates": [
+            -0.164944,
+            5.6420983
+        ]
+    },
+    {
+        "name": "Tabora Number 1",
+        "coordinates": [
+            -0.2578491,
+            5.6037223
+        ]
+    },
+    {
+        "name": "Abrantie",
+        "coordinates": [
+            -0.2516826,
+            5.6052237
+        ]
+    },
+    {
+        "name": "Mampong",
+        "coordinates": [
+            -0.2559185,
+            5.6015887
+        ]
+    },
+    {
+        "name": "Mampong",
+        "coordinates": [
+            -0.2554957,
+            5.6006069
+        ]
+    },
+    {
+        "name": "Bus Stop",
+        "coordinates": [
+            0.0576362,
+            6.1510999
+        ]
+    },
+    {
+        "name": "Bus Stop",
+        "coordinates": [
+            0.0607846,
+            6.1548761
+        ]
+    },
+    {
+        "name": "Bus Stop",
+        "coordinates": [
+            0.0606516,
+            6.1549566
+        ]
+    },
+    {
+        "name": "Bus Stop",
+        "coordinates": [
+            0.0436925,
+            6.0927398
+        ]
+    },
+    {
+        "name": "Bus Stop",
+        "coordinates": [
+            0.0443853,
+            6.0947103
+        ]
+    },
+    {
+        "name": "Bus Stop",
+        "coordinates": [
+            0.0534812,
+            5.9801696
+        ]
+    },
+    {
+        "name": "Bus Stop",
+        "coordinates": [
+            0.0536486,
+            5.9801736
+        ]
+    },
+    {
+        "name": "Bus Stop",
+        "coordinates": [
+            0.0380602,
+            5.8835338
+        ]
+    },
+    {
+        "name": "Bus Stop",
+        "coordinates": [
+            0.0383889,
+            5.8842958
+        ]
+    },
+    {
+        "name": "Bus Stop",
+        "coordinates": [
+            0.0057292,
+            5.8005905
+        ]
+    },
+    {
+        "name": "Bus Stop",
+        "coordinates": [
+            0.0056167,
+            5.800657
+        ]
+    },
+    {
+        "name": "Bus Stop",
+        "coordinates": [
+            0.0060724,
+            5.8013614
+        ]
+    },
+    {
+        "name": "Bus Stop",
+        "coordinates": [
+            -0.0128305,
+            5.7271056
+        ]
+    },
+    {
+        "name": "Bus Stop",
+        "coordinates": [
+            -0.0127751,
+            5.7276536
+        ]
+    },
+    {
+        "name": "Michel Camp Gate",
+        "coordinates": [
+            -0.0137674,
+            5.7317941
+        ]
+    },
+    {
+        "name": "Bus Stop",
+        "coordinates": [
+            -0.0138826,
+            5.7331749
+        ]
+    },
+    {
+        "name": "New Sebrepor Junction",
+        "coordinates": [
+            -0.0055551,
+            5.7572004
+        ]
+    },
+    {
+        "name": "Bus Stop",
+        "coordinates": [
+            0.0611857,
+            6.1558175
+        ]
+    },
+    {
+        "name": "Bus Stop",
+        "coordinates": [
+            0.0640901,
+            6.1613322
+        ]
+    },
+    {
+        "name": "Bus Stop",
+        "coordinates": [
+            0.0795986,
+            6.2049694
+        ]
+    },
+    {
+        "name": "Villas",
+        "coordinates": [
+            -0.155464,
+            5.5791002
+        ]
+    },
+    {
+        "name": "High Tension",
+        "coordinates": [
+            -0.1700242,
+            5.6434962
+        ]
+    },
+    {
+        "name": "Bus Stop",
+        "coordinates": [
+            0.007883,
+            5.6395578
+        ]
+    },
+    {
+        "name": "Site 20",
+        "coordinates": [
+            0.0022573,
+            5.6474365
+        ]
+    },
+    {
+        "name": "Site 10",
+        "coordinates": [
+            0.0002416,
+            5.6510377
+        ]
+    },
+    {
+        "name": "Community 4",
+        "coordinates": [
+            -0.0035486,
+            5.6580141
+        ]
+    },
+    {
+        "name": "Community 7",
+        "coordinates": [
+            -0.0062296,
+            5.6647008
+        ]
+    },
+    {
+        "name": "Trasacco Gate",
+        "coordinates": [
+            -0.1140452,
+            5.6529418
+        ]
+    },
+    {
+        "name": "Rawlings Junction",
+        "coordinates": [
+            -0.1292828,
+            5.6512389
+        ]
+    },
+    {
+        "name": "Conti Roundabout",
+        "coordinates": [
+            -1.5708295,
+            6.6792032
+        ]
+    },
+    {
+        "name": "Conti Roundabout",
+        "coordinates": [
+            -1.5702665,
+            6.6785868
+        ]
+    },
+    {
+        "name": "Agric Stop",
+        "coordinates": [
+            -1.5673112,
+            6.6774187
+        ]
+    },
+    {
+        "name": "Steps",
+        "coordinates": [
+            -1.5650284,
+            6.6760699
+        ]
+    },
+    {
+        "name": "Gate",
+        "coordinates": [
+            -1.5636068,
+            6.6756569
+        ]
+    },
+    {
+        "name": "Atta Mills junction",
+        "coordinates": [
+            -1.5622176,
+            6.6758456
+        ]
+    },
+    {
+        "name": "Asore Junction",
+        "coordinates": [
+            -1.5612524,
+            6.6759427
+        ]
+    },
+    {
+        "name": "Bus Stop",
+        "coordinates": [
+            1.0148759,
+            6.0668814
+        ]
+    },
+    {
+        "name": "Bus Stop",
+        "coordinates": [
+            0.5517246,
+            6.0077802
+        ]
+    },
+    {
+        "name": "Bus Stop",
+        "coordinates": [
+            0.9927649,
+            6.0587373
+        ]
+    },
+    {
+        "name": "Bus Stop",
+        "coordinates": [
+            1.056151,
+            6.0833599
+        ]
+    },
+    {
+        "name": "Bus Stop",
+        "coordinates": [
+            1.0640398,
+            6.0875692
+        ]
+    },
+    {
+        "name": "Bus Stop",
+        "coordinates": [
+            1.0858695,
+            6.0963639
+        ]
+    },
+    {
+        "name": "Bus Stop",
+        "coordinates": [
+            1.1578615,
+            6.1097074
+        ]
+    },
+    {
+        "name": "Bus Stop",
+        "coordinates": [
+            0.6029014,
+            6.002487
+        ]
+    },
+    {
+        "name": "Bus Stop",
+        "coordinates": [
+            0.7180562,
+            6.0435114
+        ]
+    },
+    {
+        "name": "Bus Stop",
+        "coordinates": [
+            0.7603909,
+            6.097219
+        ]
+    },
+    {
+        "name": "Bus Stop",
+        "coordinates": [
+            0.8417479,
+            6.0906711
+        ]
+    },
+    {
+        "name": "Bus Stop",
+        "coordinates": [
+            0.8532242,
+            6.0797629
+        ]
+    },
+    {
+        "name": "Bus Stop",
+        "coordinates": [
+            0.8652716,
+            6.0624291
+        ]
+    },
+    {
+        "name": "Bus Stop",
+        "coordinates": [
+            0.9087158,
+            6.0640004
+        ]
+    },
+    {
+        "name": "Bus Stop",
+        "coordinates": [
+            1.1801082,
+            6.1199093
+        ]
+    },
+    {
+        "name": "Bus Stop",
+        "coordinates": [
+            1.0130506,
+            6.0661271
+        ]
+    },
+    {
+        "name": "Bus Stop",
+        "coordinates": [
+            0.7396455,
+            6.0720192
+        ]
+    },
+    {
+        "name": "Bus Stop",
+        "coordinates": [
+            0.9158259,
+            6.0642509
+        ]
+    },
+    {
+        "name": "Bus Stop",
+        "coordinates": [
+            0.9629,
+            6.055134
+        ]
+    },
+    {
+        "name": "Bus Stop",
+        "coordinates": [
+            1.1003127,
+            6.1015229
+        ]
+    },
+    {
+        "name": "Bus Stop",
+        "coordinates": [
+            1.1240424,
+            6.1124593
+        ]
+    },
+    {
+        "name": "Bus Stop",
+        "coordinates": [
+            1.033342,
+            6.0729079
+        ]
+    },
+    {
+        "name": "Bus Stop",
+        "coordinates": [
+            1.049058,
+            6.0802496
+        ]
+    },
+    {
+        "name": "Spanner",
+        "coordinates": [
+            -0.1764853,
+            5.620506
+        ]
+    },
+    {
+        "name": "Spanner",
+        "coordinates": [
+            -0.1761345,
+            5.6204153
+        ]
+    },
+    {
+        "name": "Paloma",
+        "coordinates": [
+            -0.206208,
+            5.5717215
+        ]
+    },
+    {
+        "name": "Paloma",
+        "coordinates": [
+            -0.2058868,
+            5.5720606
+        ]
+    },
+    {
+        "name": "Danquah Second",
+        "coordinates": [
+            -0.1817192,
+            5.5675097
+        ]
+    },
+    {
+        "name": "St. Johns",
+        "coordinates": [
+            -0.2424338,
+            5.6388495
+        ]
+    },
+    {
+        "name": "GBC",
+        "coordinates": [
+            -0.192666,
+            5.5735046
+        ]
+    },
+    {
+        "name": "Aklika Junction",
+        "coordinates": [
+            -0.0667612,
+            5.6292703
+        ]
+    },
+    {
+        "name": "Ashaley Botwe",
+        "coordinates": [
+            -0.1336375,
+            5.6836426
+        ]
+    },
+    {
+        "name": "Kakasunanka No.1 Junction",
+        "coordinates": [
+            -0.0136608,
+            5.739057
+        ]
+    },
+    {
+        "name": "High Tension",
+        "coordinates": [
+            0.0033139,
+            5.7225914
+        ]
+    },
+    {
+        "name": "Appolonia Junction",
+        "coordinates": [
+            0.0025569,
+            5.7922004
+        ]
+    },
+    {
+        "name": "Gbetsile Junction",
+        "coordinates": [
+            -0.0129637,
+            5.7421827
+        ]
+    },
+    {
+        "name": "Science shuttle station",
+        "coordinates": [
+            -1.2921706,
+            5.1166882
+        ]
+    },
+    {
+        "name": "Adenta Barrier",
+        "coordinates": [
+            -0.1710276,
+            5.7059993
+        ]
+    },
+    {
+        "name": "Community 9",
+        "coordinates": [
+            -0.0122552,
+            5.6789812
+        ]
+    },
+    {
+        "name": "Palm Wine",
+        "coordinates": [
+            -0.1525381,
+            5.5764716
+        ]
+    },
+    {
+        "name": "Lebanon School Junction",
+        "coordinates": [
+            -0.0490113,
+            5.7118555
+        ]
+    },
+    {
+        "name": "Congo Junction",
+        "coordinates": [
+            -0.163151,
+            5.5882053
+        ]
+    },
+    {
+        "name": "Bus Stop",
+        "coordinates": [
+            1.095507,
+            6.0992263
+        ]
+    },
+    {
+        "name": "Obaatan Junction",
+        "coordinates": [
+            -0.0501159,
+            5.7136855
+        ]
+    },
+    {
+        "name": "ICGC",
+        "coordinates": [
+            -0.2713953,
+            5.6528008
+        ]
+    },
+    {
+        "name": "Dzorwulu Junction",
+        "coordinates": [
+            -0.1911487,
+            5.6184985
+        ]
+    },
+    {
+        "name": "Mallam Junction",
+        "coordinates": [
+            -0.2855065,
+            5.5710149
+        ]
+    },
+    {
+        "name": "Bus Stop",
+        "coordinates": [
+            -1.3408806,
+            5.0978628
+        ]
+    },
+    {
+        "name": "Dornorgbor Street",
+        "coordinates": [
+            0.9138398,
+            5.799463
+        ]
+    },
+    {
+        "name": "Genui Junction",
+        "coordinates": [
+            0.8607193,
+            5.7885442
+        ]
+    },
+    {
+        "name": "Bus Stop",
+        "coordinates": [
+            -1.2842076,
+            5.1147777
+        ]
+    },
+    {
+        "name": "Bus Stop",
+        "coordinates": [
+            -1.2849108,
+            5.1007267
+        ]
+    },
+    {
+        "name": "Bus Stop",
+        "coordinates": [
+            0.6151763,
+            6.0066253
+        ]
+    },
+    {
+        "name": "Bortianor",
+        "coordinates": [
+            -0.3482181,
+            5.5477904
+        ]
+    },
+    {
+        "name": "Anlo-Afiadenyigba Junction",
+        "coordinates": [
+            0.9749104,
+            6.052306
+        ]
+    },
+    {
+        "name": "Gborxome",
+        "coordinates": [
+            0.2651926,
+            6.8967995
+        ]
+    },
+    {
+        "name": "Bus Stop",
+        "coordinates": [
+            1.0482935,
+            6.0801224
+        ]
+    },
+    {
+        "name": "Bus Stop",
+        "coordinates": [
+            1.124563,
+            6.1127645
+        ]
+    },
+    {
+        "name": "Bus Stop",
+        "coordinates": [
+            1.0392759,
+            6.0747903
+        ]
+    },
+    {
+        "name": "Bus Stop",
+        "coordinates": [
+            1.0286,
+            6.0713037
+        ]
+    },
+    {
+        "name": "Bus Stop",
+        "coordinates": [
+            0.9639515,
+            6.0547479
+        ]
+    },
+    {
+        "name": "Bus Stop",
+        "coordinates": [
+            1.0564366,
+            6.0836144
+        ]
+    },
+    {
+        "name": "Aveme Beme Junction",
+        "coordinates": [
+            0.2830667,
+            6.9029644
+        ]
+    },
+    {
+        "name": "Ampia",
+        "coordinates": [
+            -0.9164039,
+            5.4081123
+        ]
+    },
+    {
+        "name": "Ajumako",
+        "coordinates": [
+            -0.8891328,
+            5.3101835
+        ]
+    },
+    {
+        "name": "Aboley Junction",
+        "coordinates": [
+            -0.8561414,
+            10.772626
+        ]
+    },
+    {
+        "name": "High Tension",
+        "coordinates": [
+            -0.2483251,
+            5.616029
+        ]
+    },
+    {
+        "name": "Kpong to Kumasi",
+        "coordinates": [
+            0.0767918,
+            6.1056012
+        ]
+    },
+    {
+        "name": "McCarthy Junction",
+        "coordinates": [
+            -0.288941,
+            5.5655092
+        ]
+    },
+    {
+        "name": "Mallam Junction",
+        "coordinates": [
+            -0.285949,
+            5.5698342
+        ]
+    },
+    {
+        "name": "Mile Eleven",
+        "coordinates": [
+            -0.3559126,
+            5.5508216
+        ]
+    },
+    {
+        "name": "Bortianor",
+        "coordinates": [
+            -0.3481346,
+            5.5474959
+        ]
+    },
+    {
+        "name": "Odorkor",
+        "coordinates": [
+            -0.2648468,
+            5.5796764
+        ]
+    },
+    {
+        "name": "Legon Second",
+        "coordinates": [
+            -0.1799915,
+            5.6518837
+        ]
+    },
+    {
+        "name": "Legon Second",
+        "coordinates": [
+            -0.1798695,
+            5.6481575
+        ]
+    },
+    {
+        "name": "Tuba",
+        "coordinates": [
+            -0.3819991,
+            5.546819
+        ]
+    },
+    {
+        "name": "Mallam Junction",
+        "coordinates": [
+            -0.2861767,
+            5.5690758
+        ]
+    },
+    {
+        "name": "Weija Barrier",
+        "coordinates": [
+            -0.3292343,
+            5.5511501
+        ]
+    },
+    {
+        "name": "Anloga Junction",
+        "coordinates": [
+            -1.5970898,
+            6.6885593
+        ]
+    },
+    {
+        "name": "Been To",
+        "coordinates": [
+            -0.2717172,
+            5.5873886
+        ]
+    },
+    {
+        "name": "Mendskrom",
+        "coordinates": [
+            -0.2971831,
+            5.5583351
+        ]
+    },
+    {
+        "name": "Wasa Akropong",
+        "coordinates": [
+            -2.0880883,
+            5.783195
+        ]
+    },
+    {
+        "name": "Nkamponanse",
+        "coordinates": [
+            -2.0007961,
+            5.2961226
+        ]
+    },
+    {
+        "name": "Atikpui",
+        "coordinates": [
+            0.6234783,
+            6.745355
+        ]
+    },
+    {
+        "name": "Bus Stop",
+        "coordinates": [
+            -2.0980037,
+            5.6360002
+        ]
+    },
+    {
+        "name": "Bus Stop",
+        "coordinates": [
+            -2.0997849,
+            5.6383577
+        ]
+    },
+    {
+        "name": "Graphic Stand",
+        "coordinates": [
+            -1.2768038,
+            5.6970177
+        ]
+    },
+    {
+        "name": "Bus Stop",
+        "coordinates": [
+            -1.6021404,
+            6.6633428
+        ]
+    },
+    {
+        "name": "Bus Stop",
+        "coordinates": [
+            -1.7827818,
+            4.9112704
+        ]
+    },
+    {
+        "name": "Amangoase",
+        "coordinates": [
+            -1.559007,
+            6.6898698
+        ]
+    },
+    {
+        "name": "Nkamponanse",
+        "coordinates": [
+            -2.0013064,
+            5.2955507
+        ]
+    },
+    {
+        "name": "University of Cape Coast",
+        "coordinates": [
+            -1.2843301,
+            5.1006559
+        ]
+    },
+    {
+        "name": "Bus Stop",
+        "coordinates": [
+            -1.4477329,
+            5.0913482
+        ]
+    },
+    {
+        "name": "Bus Stop",
+        "coordinates": [
+            -1.2619866,
+            5.1150157
+        ]
+    },
+    {
+        "name": "Tetteh Quarshie / Roundabout",
+        "coordinates": [
+            -0.1738463,
+            5.6240242
+        ]
+    },
+    {
+        "name": "Bus Stop",
+        "coordinates": [
+            0.699555,
+            6.0289511
+        ]
+    },
+    {
+        "name": "Nogokpo",
+        "coordinates": [
+            1.0725796,
+            6.091949
+        ]
+    },
+    {
+        "name": "Legon First",
+        "coordinates": [
+            -0.1807077,
+            5.6536077
+        ]
+    },
+    {
+        "name": "Power House",
+        "coordinates": [
+            -0.1801477,
+            5.6560636
+        ]
+    },
+    {
+        "name": "Agbogba Junction",
+        "coordinates": [
+            -0.18729,
+            5.6672969
+        ]
+    },
+    {
+        "name": "Mallam Market",
+        "coordinates": [
+            -0.2787566,
+            5.5739276
+        ]
+    },
+    {
+        "name": "Opeibea First",
+        "coordinates": [
+            -0.1795113,
+            5.5980107
+        ]
+    },
+    {
+        "name": "37 Hospital",
+        "coordinates": [
+            -0.1831067,
+            5.587623
+        ]
+    },
+    {
+        "name": "Sankara",
+        "coordinates": [
+            -0.1912352,
+            5.5707147
+        ]
+    },
+    {
+        "name": "Ridge",
+        "coordinates": [
+            -0.1966274,
+            5.5605037
+        ]
+    },
+    {
+        "name": "Shangrila",
+        "coordinates": [
+            -0.1760971,
+            5.6160691
+        ]
+    },
+    {
+        "name": "Sankara",
+        "coordinates": [
+            -0.1894351,
+            5.5734253
+        ]
+    },
+    {
+        "name": "37 Hospital",
+        "coordinates": [
+            -0.1826114,
+            5.5879146
+        ]
+    },
+    {
+        "name": "Bus Stop",
+        "coordinates": [
+            -0.1812075,
+            5.5899463
+        ]
+    },
+    {
+        "name": "License Office",
+        "coordinates": [
+            -0.1806082,
+            5.5919333
+        ]
+    },
+    {
+        "name": "Opeibea Second",
+        "coordinates": [
+            -0.1786398,
+            5.6007053
+        ]
+    },
+    {
+        "name": "Opeibea First",
+        "coordinates": [
+            -0.1796072,
+            5.5963571
+        ]
+    },
+    {
+        "name": "Shangrila",
+        "coordinates": [
+            -0.1759131,
+            5.6171912
+        ]
+    },
+    {
+        "name": "Airport Second",
+        "coordinates": [
+            -0.1781224,
+            5.6041926
+        ]
+    },
+    {
+        "name": "Agbogba Junction",
+        "coordinates": [
+            -0.1880947,
+            5.667379
+        ]
+    },
+    {
+        "name": "Korle Bu",
+        "coordinates": [
+            -0.2264147,
+            5.5361606
+        ]
+    },
+    {
+        "name": "Korle Bu",
+        "coordinates": [
+            -0.2270517,
+            5.5361206
+        ]
+    },
+    {
+        "name": "Abeka Lapaz",
+        "coordinates": [
+            -0.2481677,
+            5.6072824
+        ]
+    },
+    {
+        "name": "Nii Boi Town Junction",
+        "coordinates": [
+            -0.245219,
+            5.6082043
+        ]
+    },
+    {
+        "name": "Bambolino",
+        "coordinates": [
+            -0.2423735,
+            5.6087099
+        ]
+    },
+    {
+        "name": "Lapaz Market",
+        "coordinates": [
+            -0.24051,
+            5.6090177
+        ]
+    },
+    {
+        "name": "Flat Top",
+        "coordinates": [
+            -0.2380849,
+            5.6095454
+        ]
+    },
+    {
+        "name": "Akweteyman",
+        "coordinates": [
+            -0.2313117,
+            5.6115673
+        ]
+    },
+    {
+        "name": "Achimota Overhead",
+        "coordinates": [
+            -0.2255395,
+            5.6132664
+        ]
+    },
+    {
+        "name": "Abelenkpe Junction",
+        "coordinates": [
+            -0.2109196,
+            5.6099334
+        ]
+    },
+    {
+        "name": "Dzorwulu Junction",
+        "coordinates": [
+            -0.2070102,
+            5.6073118
+        ]
+    },
+    {
+        "name": "Ebony",
+        "coordinates": [
+            -0.2036896,
+            5.6051616
+        ]
+    },
+    {
+        "name": "Roman Ridge",
+        "coordinates": [
+            -0.2003114,
+            5.6029353
+        ]
+    },
+    {
+        "name": "Culture",
+        "coordinates": [
+            -0.185181,
+            5.5934508
+        ]
+    },
+    {
+        "name": "Korle Bu Junction",
+        "coordinates": [
+            -0.2399263,
+            5.5436043
+        ]
+    },
+    {
+        "name": "Kaneshie",
+        "coordinates": [
+            -0.2358676,
+            5.5640961
+        ]
+    },
+    {
+        "name": "Dansoman Junction",
+        "coordinates": [
+            -0.2376365,
+            5.5632117
+        ]
+    },
+    {
+        "name": "Asoredan ho",
+        "coordinates": [
+            -0.2387208,
+            5.561402
+        ]
+    },
+    {
+        "name": "Zongo Junction",
+        "coordinates": [
+            -0.2397888,
+            5.5577934
+        ]
+    },
+    {
+        "name": "Kasoa Station",
+        "coordinates": [
+            -0.2401432,
+            5.5562747
+        ]
+    },
+    {
+        "name": "Pipeier Naa",
+        "coordinates": [
+            -0.2401289,
+            5.5535038
+        ]
+    },
+    {
+        "name": "Black Smith",
+        "coordinates": [
+            -0.2401201,
+            5.5511073
+        ]
+    },
+    {
+        "name": "Radio Gold",
+        "coordinates": [
+            -0.2401327,
+            5.5480701
+        ]
+    },
+    {
+        "name": "Salvation Army",
+        "coordinates": [
+            -0.2392821,
+            5.5409656
+        ]
+    },
+    {
+        "name": "Sempe Second",
+        "coordinates": [
+            -0.2387178,
+            5.5386027
+        ]
+    },
+    {
+        "name": "Sempe First",
+        "coordinates": [
+            -0.2383399,
+            5.5370014
+        ]
+    },
+    {
+        "name": "Mamprobi Station",
+        "coordinates": [
+            -0.2377661,
+            5.5346741
+        ]
+    },
+    {
+        "name": "Shell",
+        "coordinates": [
+            -0.2373437,
+            5.5329887
+        ]
+    },
+    {
+        "name": "Market Junction",
+        "coordinates": [
+            -0.237237,
+            5.5321588
+        ]
+    },
+    {
+        "name": "Market",
+        "coordinates": [
+            -0.2352626,
+            5.5318853
+        ]
+    },
+    {
+        "name": "Shalom",
+        "coordinates": [
+            -0.2322283,
+            5.5312256
+        ]
+    },
+    {
+        "name": "Asoredan ho",
+        "coordinates": [
+            -0.232268,
+            5.531474
+        ]
+    },
+    {
+        "name": "Banku Junction",
+        "coordinates": [
+            -0.2370484,
+            5.5308527
+        ]
+    },
+    {
+        "name": "White House",
+        "coordinates": [
+            -0.2365225,
+            5.5283443
+        ]
+    },
+    {
+        "name": "Sempe First",
+        "coordinates": [
+            -0.2389032,
+            5.5391036
+        ]
+    },
+    {
+        "name": "Pipeier Naa",
+        "coordinates": [
+            -0.2402048,
+            5.5529372
+        ]
+    },
+    {
+        "name": "Radio Gold",
+        "coordinates": [
+            -0.2402106,
+            5.5486332
+        ]
+    },
+    {
+        "name": "Mamprobi Station",
+        "coordinates": [
+            -0.2377406,
+            5.5342555
+        ]
+    },
+    {
+        "name": "Market",
+        "coordinates": [
+            -0.237275,
+            5.5320138
+        ]
+    },
+    {
+        "name": "Salvation Army",
+        "coordinates": [
+            -0.2395311,
+            5.5416466
+        ]
+    },
+    {
+        "name": "Zongo Junction",
+        "coordinates": [
+            -0.2399215,
+            5.5575568
+        ]
+    },
+    {
+        "name": "Duanase",
+        "coordinates": [
+            -0.2367828,
+            5.5295993
+        ]
+    },
+    {
+        "name": "Hotel Junction",
+        "coordinates": [
+            -0.2342577,
+            5.5280014
+        ]
+    },
+    {
+        "name": "Sempe Second",
+        "coordinates": [
+            -0.2383511,
+            5.5367807
+        ]
+    },
+    {
+        "name": "Black Smith",
+        "coordinates": [
+            -0.2402081,
+            5.5508347
+        ]
+    },
+    {
+        "name": "White House",
+        "coordinates": [
+            -0.2361356,
+            5.5276285
+        ]
+    },
+    {
+        "name": "Ejas",
+        "coordinates": [
+            -0.2317564,
+            5.528899
+        ]
+    },
+    {
+        "name": "Mamprobi Shell",
+        "coordinates": [
+            -0.2375607,
+            5.5335068
+        ]
+    },
+    {
+        "name": "Achimota New Station",
+        "coordinates": [
+            -0.2259058,
+            5.621493
+        ]
+    },
+    {
+        "name": "Achimota Hospital",
+        "coordinates": [
+            -0.2191415,
+            5.6275004
+        ]
+    },
+    {
+        "name": "Legon Station",
+        "coordinates": [
+            -0.1789634,
+            5.6501681
+        ]
+    },
+    {
+        "name": "Ayido",
+        "coordinates": [
+            -0.193736,
+            5.6407052
+        ]
+    },
+    {
+        "name": "Legon Barrier",
+        "coordinates": [
+            -0.1979135,
+            5.6415839
+        ]
+    },
+    {
+        "name": "Christian Village",
+        "coordinates": [
+            -0.214652,
+            5.6353879
+        ]
+    },
+    {
+        "name": "Achimota Club House",
+        "coordinates": [
+            -0.2192451,
+            5.6220881
+        ]
+    },
+    {
+        "name": "Forestry Commission",
+        "coordinates": [
+            -0.2088308,
+            5.6390987
+        ]
+    },
+    {
+        "name": "GIMPA",
+        "coordinates": [
+            -0.2052399,
+            5.6413781
+        ]
+    },
+    {
+        "name": "Golf Park",
+        "coordinates": [
+            -0.2188331,
+            5.6309218
+        ]
+    },
+    {
+        "name": "Kisseman Junction",
+        "coordinates": [
+            -0.2132336,
+            5.637254
+        ]
+    },
+    {
+        "name": "Legon Traffic Light",
+        "coordinates": [
+            -0.1792475,
+            5.6405525
+        ]
+    },
+    {
+        "name": "Okponglo",
+        "coordinates": [
+            -0.1780914,
+            5.6413411
+        ]
+    },
+    {
+        "name": "PWD",
+        "coordinates": [
+            -0.2188871,
+            5.6240003
+        ]
+    },
+    {
+        "name": "Legon Primary School",
+        "coordinates": [
+            -0.1899442,
+            5.642692
+        ]
+    },
+    {
+        "name": "Airways Junction",
+        "coordinates": [
+            -0.2108582,
+            5.6381796
+        ]
+    },
+    {
+        "name": "Pure Fire",
+        "coordinates": [
+            -0.2118914,
+            5.6378831
+        ]
+    },
+    {
+        "name": "Legon First",
+        "coordinates": [
+            -0.1795016,
+            5.6489286
+        ]
+    },
+    {
+        "name": "18",
+        "coordinates": [
+            -0.1953423,
+            5.6409982
+        ]
+    },
+    {
+        "name": "El-Wak Stadium",
+        "coordinates": [
+            -0.1746428,
+            5.587359
+        ]
+    },
+    {
+        "name": "37 Last Stop",
+        "coordinates": [
+            -0.1803082,
+            5.588576
+        ]
+    },
+    {
+        "name": "37 First Gate",
+        "coordinates": [
+            -0.1828992,
+            5.5902669
+        ]
+    },
+    {
+        "name": "Culture",
+        "coordinates": [
+            -0.1852414,
+            5.593304
+        ]
+    },
+    {
+        "name": "Kankudi",
+        "coordinates": [
+            -0.1885244,
+            5.5947696
+        ]
+    },
+    {
+        "name": "Accra Girls",
+        "coordinates": [
+            -0.1934691,
+            5.5982415
+        ]
+    },
+    {
+        "name": "Pig Farm Junction",
+        "coordinates": [
+            -0.1959488,
+            5.5998915
+        ]
+    },
+    {
+        "name": "Ebony",
+        "coordinates": [
+            -0.2035153,
+            5.6048206
+        ]
+    },
+    {
+        "name": "Dzorwulu Junction",
+        "coordinates": [
+            -0.2070947,
+            5.6071496
+        ]
+    },
+    {
+        "name": "Abelenkpe Junction",
+        "coordinates": [
+            -0.211521,
+            5.610252
+        ]
+    },
+    {
+        "name": "CP",
+        "coordinates": [
+            -0.2164891,
+            5.6145417
+        ]
+    },
+    {
+        "name": "Achimota Overhead",
+        "coordinates": [
+            -0.2263945,
+            5.6126652
+        ]
+    },
+    {
+        "name": "Abeka Lapaz (Nii Boi)",
+        "coordinates": [
+            -0.245237,
+            5.6077389
+        ]
+    },
+    {
+        "name": "Lapaz Station",
+        "coordinates": [
+            -0.249778,
+            5.6080792
+        ]
+    },
+    {
+        "name": "Lapaz Last stop",
+        "coordinates": [
+            -0.2508921,
+            5.6094963
+        ]
+    },
+    {
+        "name": "Lapaz Community Junction",
+        "coordinates": [
+            -0.2549457,
+            5.606581
+        ]
+    },
+    {
+        "name": "Lapaz Market",
+        "coordinates": [
+            -0.2571886,
+            5.6074265
+        ]
+    },
+    {
+        "name": "Tabora Number 3",
+        "coordinates": [
+            -0.2586053,
+            5.6072264
+        ]
+    },
+    {
+        "name": "Tabora Number2",
+        "coordinates": [
+            -0.2604171,
+            5.6060498
+        ]
+    },
+    {
+        "name": "Ahenfie",
+        "coordinates": [
+            -0.260941,
+            5.606501
+        ]
+    },
+    {
+        "name": "Race Course Blue Gate",
+        "coordinates": [
+            -0.2623911,
+            5.6074933
+        ]
+    },
+    {
+        "name": "School Junction Race Course",
+        "coordinates": [
+            -0.2632488,
+            5.6082761
+        ]
+    },
+    {
+        "name": "Container Race Course",
+        "coordinates": [
+            -0.2640514,
+            5.6090589
+        ]
+    },
+    {
+        "name": "Attah Junction",
+        "coordinates": [
+            -0.2653242,
+            5.6102493
+        ]
+    },
+    {
+        "name": "Rasta Junction",
+        "coordinates": [
+            -0.2661016,
+            5.6112754
+        ]
+    },
+    {
+        "name": "Gyedu Junction",
+        "coordinates": [
+            -0.267781,
+            5.6119558
+        ]
+    },
+    {
+        "name": "Race Course",
+        "coordinates": [
+            -0.2714308,
+            5.6141046
+        ]
+    },
+    {
+        "name": "Airport Second",
+        "coordinates": [
+            -0.1765847,
+            5.6098268
+        ]
+    },
+    {
+        "name": "Flagstaff House",
+        "coordinates": [
+            -0.1879467,
+            5.5762059
+        ]
+    },
+    {
+        "name": "Accra Royal",
+        "coordinates": [
+            -0.2217799,
+            5.5380444
+        ]
+    },
+    {
+        "name": "UPS",
+        "coordinates": [
+            -0.1666827,
+            5.6598598
+        ]
+    },
+    {
+        "name": "First Light",
+        "coordinates": [
+            -0.2426319,
+            5.5695562
+        ]
+    },
+    {
+        "name": "Circle Neoplan Station",
+        "coordinates": [
+            -0.2182021,
+            5.5690587
+        ]
+    },
+    {
+        "name": "Circle",
+        "coordinates": [
+            -0.2167595,
+            5.5697473
+        ]
+    },
+    {
+        "name": "Circle Asoredanho",
+        "coordinates": [
+            -0.2167254,
+            5.5756325
+        ]
+    },
+    {
+        "name": "Caprice",
+        "coordinates": [
+            -0.2170401,
+            5.5839552
+        ]
+    },
+    {
+        "name": "Alajo",
+        "coordinates": [
+            -0.2181552,
+            5.5879415
+        ]
+    },
+    {
+        "name": "CAT",
+        "coordinates": [
+            -0.2219576,
+            5.5951809
+        ]
+    },
+    {
+        "name": "Abeka Junction",
+        "coordinates": [
+            -0.2239655,
+            5.5989245
+        ]
+    },
+    {
+        "name": "Abeka Junction Curve",
+        "coordinates": [
+            -0.2245869,
+            5.5993959
+        ]
+    },
+    {
+        "name": "Total",
+        "coordinates": [
+            -0.2333215,
+            5.5980065
+        ]
+    },
+    {
+        "name": "Adom Junction",
+        "coordinates": [
+            -0.2368642,
+            5.5995687
+        ]
+    },
+    {
+        "name": "Free Pipe",
+        "coordinates": [
+            -0.2376645,
+            5.5998619
+        ]
+    },
+    {
+        "name": "Abeka Main Market",
+        "coordinates": [
+            -0.2393011,
+            5.6008086
+        ]
+    },
+    {
+        "name": "Fadama",
+        "coordinates": [
+            -0.2407929,
+            5.601748
+        ]
+    },
+    {
+        "name": "Eno",
+        "coordinates": [
+            -0.2419788,
+            5.6027454
+        ]
+    },
+    {
+        "name": "Fadama Junction",
+        "coordinates": [
+            -0.2427124,
+            5.6031976
+        ]
+    },
+    {
+        "name": "Abeka Post Office",
+        "coordinates": [
+            -0.2439488,
+            5.6040435
+        ]
+    },
+    {
+        "name": "Abeka Lapaz",
+        "coordinates": [
+            -0.2490744,
+            5.6064091
+        ]
+    },
+    {
+        "name": "Circle",
+        "coordinates": [
+            -0.2132909,
+            5.5706712
+        ]
+    },
+    {
+        "name": "Abotare",
+        "coordinates": [
+            -0.2452697,
+            5.6050751
+        ]
+    },
+    {
+        "name": "Abeka Post Office",
+        "coordinates": [
+            -0.2435927,
+            5.6039005
+        ]
+    },
+    {
+        "name": "Fadama Junction",
+        "coordinates": [
+            -0.2424967,
+            5.6030771
+        ]
+    },
+    {
+        "name": "Eno",
+        "coordinates": [
+            -0.241571,
+            5.602627
+        ]
+    },
+    {
+        "name": "Abeka Main Market",
+        "coordinates": [
+            -0.2391297,
+            5.6007988
+        ]
+    },
+    {
+        "name": "Free Pipe",
+        "coordinates": [
+            -0.2373871,
+            5.599799
+        ]
+    },
+    {
+        "name": "Adom Junction",
+        "coordinates": [
+            -0.2369134,
+            5.5996325
+        ]
+    },
+    {
+        "name": "Total Curve",
+        "coordinates": [
+            -0.2336448,
+            5.5984513
+        ]
+    },
+    {
+        "name": "Total",
+        "coordinates": [
+            -0.2330129,
+            5.5981088
+        ]
+    },
+    {
+        "name": "Abeka Junction Curve",
+        "coordinates": [
+            -0.2247772,
+            5.5995177
+        ]
+    },
+    {
+        "name": "Abeka Junction",
+        "coordinates": [
+            -0.2234973,
+            5.5985513
+        ]
+    },
+    {
+        "name": "Alajo",
+        "coordinates": [
+            -0.2183032,
+            5.5909137
+        ]
+    },
+    {
+        "name": "Caprice",
+        "coordinates": [
+            -0.2166779,
+            5.5825335
+        ]
+    },
+    {
+        "name": "Circle Asoredanho",
+        "coordinates": [
+            -0.2165312,
+            5.5754508
+        ]
+    },
+    {
+        "name": "Circle",
+        "coordinates": [
+            -0.2158739,
+            5.5714604
+        ]
+    },
+    {
+        "name": "Circle Overhead",
+        "coordinates": [
+            -0.2139913,
+            5.5701413
+        ]
+    },
+    {
+        "name": "Kwabenya",
+        "coordinates": [
+            -0.2477532,
+            5.6907311
+        ]
+    },
+    {
+        "name": "Kwabenya Market",
+        "coordinates": [
+            -0.2467967,
+            5.6882029
+        ]
+    },
+    {
+        "name": "Oscar Junction",
+        "coordinates": [
+            -0.2452261,
+            5.6853216
+        ]
+    },
+    {
+        "name": "White House",
+        "coordinates": [
+            -0.2431931,
+            5.6812955
+        ]
+    },
+    {
+        "name": "Mosuku Junction",
+        "coordinates": [
+            -0.2427425,
+            5.6802783
+        ]
+    },
+    {
+        "name": "Point 2",
+        "coordinates": [
+            -0.2419295,
+            5.6778555
+        ]
+    },
+    {
+        "name": "Point 1",
+        "coordinates": [
+            -0.2412945,
+            5.6762328
+        ]
+    },
+    {
+        "name": "Stores",
+        "coordinates": [
+            -0.240374,
+            5.6729747
+        ]
+    },
+    {
+        "name": "Atomic Second",
+        "coordinates": [
+            -0.2388474,
+            5.6685261
+        ]
+    },
+    {
+        "name": "Atomic First",
+        "coordinates": [
+            -0.2387718,
+            5.6672489
+        ]
+    },
+    {
+        "name": "Dome New Station",
+        "coordinates": [
+            -0.2373407,
+            5.6605076
+        ]
+    },
+    {
+        "name": "Born Again",
+        "coordinates": [
+            -0.2373439,
+            5.6579628
+        ]
+    },
+    {
+        "name": "Gym",
+        "coordinates": [
+            -0.2372998,
+            5.6560279
+        ]
+    },
+    {
+        "name": "Dome Mobil / Filling Station",
+        "coordinates": [
+            -0.2373025,
+            5.6539045
+        ]
+    },
+    {
+        "name": "Dome Old Station",
+        "coordinates": [
+            -0.2374285,
+            5.6516641
+        ]
+    },
+    {
+        "name": "Dome Crossing",
+        "coordinates": [
+            -0.2365271,
+            5.6471683
+        ]
+    },
+    {
+        "name": "Adehyeman",
+        "coordinates": [
+            -0.2370508,
+            5.6455466
+        ]
+    },
+    {
+        "name": "Dome Market",
+        "coordinates": [
+            -0.2381963,
+            5.642888
+        ]
+    },
+    {
+        "name": "Achimota Mall",
+        "coordinates": [
+            -0.2414716,
+            5.6373745
+        ]
+    },
+    {
+        "name": "Best Point",
+        "coordinates": [
+            -0.2401984,
+            5.6353158
+        ]
+    },
+    {
+        "name": "Mile 7 Junction",
+        "coordinates": [
+            -0.2409738,
+            5.6342088
+        ]
+    },
+    {
+        "name": "Presby Junction",
+        "coordinates": [
+            -0.2429117,
+            5.6330591
+        ]
+    },
+    {
+        "name": "Mile 7 Park",
+        "coordinates": [
+            -0.2441669,
+            5.6322471
+        ]
+    },
+    {
+        "name": "Masalaashi",
+        "coordinates": [
+            -0.2451977,
+            5.6314823
+        ]
+    },
+    {
+        "name": "Jesus and Mary",
+        "coordinates": [
+            -0.2460741,
+            5.6308278
+        ]
+    },
+    {
+        "name": "Mile 7 Clinic",
+        "coordinates": [
+            -0.2478736,
+            5.629669
+        ]
+    },
+    {
+        "name": "Mile 7 T-Junction",
+        "coordinates": [
+            -0.2505962,
+            5.6263989
+        ]
+    },
+    {
+        "name": "Family Life",
+        "coordinates": [
+            -0.2484473,
+            5.6224046
+        ]
+    },
+    {
+        "name": "Fishpond",
+        "coordinates": [
+            -0.2499147,
+            5.6185649
+        ]
+    },
+    {
+        "name": "Abeka Lapaz",
+        "coordinates": [
+            -0.2476072,
+            5.6091997
+        ]
+    },
+    {
+        "name": "MTN",
+        "coordinates": [
+            -0.2457398,
+            5.6094268
+        ]
+    },
+    {
+        "name": "Container",
+        "coordinates": [
+            -0.2450317,
+            5.612947
+        ]
+    },
+    {
+        "name": "Nii Boi Station",
+        "coordinates": [
+            -0.2452452,
+            5.6137295
+        ]
+    },
+    {
+        "name": "High Tension",
+        "coordinates": [
+            -0.2484028,
+            5.6160195
+        ]
+    },
+    {
+        "name": "Fishpond",
+        "coordinates": [
+            -0.2499632,
+            5.6185775
+        ]
+    },
+    {
+        "name": "Family Life",
+        "coordinates": [
+            -0.2485303,
+            5.6224777
+        ]
+    },
+    {
+        "name": "Mile 7 T-Junction Top",
+        "coordinates": [
+            -0.2505813,
+            5.6263015
+        ]
+    },
+    {
+        "name": "T-Junction Down",
+        "coordinates": [
+            -0.2515079,
+            5.6282081
+        ]
+    },
+    {
+        "name": "Mile 7 Clinic",
+        "coordinates": [
+            -0.2479542,
+            5.6297191
+        ]
+    },
+    {
+        "name": "Jesus and Mary",
+        "coordinates": [
+            -0.246542,
+            5.6306161
+        ]
+    },
+    {
+        "name": "Mile 7 Park",
+        "coordinates": [
+            -0.2442247,
+            5.6322934
+        ]
+    },
+    {
+        "name": "Presby Junction",
+        "coordinates": [
+            -0.2426919,
+            5.6332792
+        ]
+    },
+    {
+        "name": "Mile 7 Junction",
+        "coordinates": [
+            -0.2405085,
+            5.6345708
+        ]
+    },
+    {
+        "name": "Tantra Hills",
+        "coordinates": [
+            -0.2455149,
+            5.6429227
+        ]
+    },
+    {
+        "name": "St. Johns",
+        "coordinates": [
+            -0.2421731,
+            5.6395889
+        ]
+    },
+    {
+        "name": "Dome Market",
+        "coordinates": [
+            -0.2378298,
+            5.643859
+        ]
+    },
+    {
+        "name": "Adehyeman",
+        "coordinates": [
+            -0.2371708,
+            5.6454242
+        ]
+    },
+    {
+        "name": "Dome Crossing",
+        "coordinates": [
+            -0.2366063,
+            5.6476487
+        ]
+    },
+    {
+        "name": "Dome Old Station",
+        "coordinates": [
+            -0.2374678,
+            5.6517281
+        ]
+    },
+    {
+        "name": "Gym",
+        "coordinates": [
+            -0.2373713,
+            5.6558011
+        ]
+    },
+    {
+        "name": "Born Again",
+        "coordinates": [
+            -0.2373961,
+            5.6578362
+        ]
+    },
+    {
+        "name": "Atomic Second",
+        "coordinates": [
+            -0.2389446,
+            5.6673996
+        ]
+    },
+    {
+        "name": "Sakumono",
+        "coordinates": [
+            -0.0694091,
+            5.6226239
+        ]
+    },
+    {
+        "name": "Traffic",
+        "coordinates": [
+            -0.0710647,
+            5.6217004
+        ]
+    },
+    {
+        "name": "Parakuo",
+        "coordinates": [
+            -0.073187,
+            5.6233422
+        ]
+    },
+    {
+        "name": "18 Junction",
+        "coordinates": [
+            -0.0759337,
+            5.6248519
+        ]
+    },
+    {
+        "name": "Texpo",
+        "coordinates": [
+            -0.0792992,
+            5.6254631
+        ]
+    },
+    {
+        "name": "Victory Signboard",
+        "coordinates": [
+            -0.0826056,
+            5.6260024
+        ]
+    },
+    {
+        "name": "White House",
+        "coordinates": [
+            -0.0855121,
+            5.6270038
+        ]
+    },
+    {
+        "name": "Baatsona Total",
+        "coordinates": [
+            -0.0871177,
+            5.62764
+        ]
+    },
+    {
+        "name": "Kotobaabi / Ecobank",
+        "coordinates": [
+            -0.0898019,
+            5.6286501
+        ]
+    },
+    {
+        "name": "Basket",
+        "coordinates": [
+            -0.0923639,
+            5.6301492
+        ]
+    },
+    {
+        "name": "Rainbow",
+        "coordinates": [
+            -0.09572,
+            5.6325
+        ]
+    },
+    {
+        "name": "First Choice",
+        "coordinates": [
+            -0.0970358,
+            5.6332704
+        ]
+    },
+    {
+        "name": "Bedford",
+        "coordinates": [
+            -0.098671,
+            5.6340886
+        ]
+    },
+    {
+        "name": "Costal",
+        "coordinates": [
+            -0.1004493,
+            5.6349544
+        ]
+    },
+    {
+        "name": "Signboard",
+        "coordinates": [
+            -0.1044998,
+            5.637421
+        ]
+    },
+    {
+        "name": "Shell",
+        "coordinates": [
+            -0.1075882,
+            5.6402526
+        ]
+    },
+    {
+        "name": "Coke",
+        "coordinates": [
+            -0.1108132,
+            5.6431943
+        ]
+    },
+    {
+        "name": "Junction Wise",
+        "coordinates": [
+            -0.1127662,
+            5.6431443
+        ]
+    },
+    {
+        "name": "Blue Gate",
+        "coordinates": [
+            -0.1146587,
+            5.6423513
+        ]
+    },
+    {
+        "name": "Herbalife",
+        "coordinates": [
+            -0.1174757,
+            5.6412267
+        ]
+    },
+    {
+        "name": "Printex",
+        "coordinates": [
+            -0.1194479,
+            5.6404354
+        ]
+    },
+    {
+        "name": "Lion",
+        "coordinates": [
+            -0.1232697,
+            5.6389049
+        ]
+    },
+    {
+        "name": "Manet",
+        "coordinates": [
+            -0.1264227,
+            5.6376596
+        ]
+    },
+    {
+        "name": "Zain Office",
+        "coordinates": [
+            -0.1295281,
+            5.636397
+        ]
+    },
+    {
+        "name": "Cylinder",
+        "coordinates": [
+            -0.1328471,
+            5.6350484
+        ]
+    },
+    {
+        "name": "Second",
+        "coordinates": [
+            -0.1412343,
+            5.6316199
+        ]
+    },
+    {
+        "name": "Energy",
+        "coordinates": [
+            -0.1430386,
+            5.6308497
+        ]
+    },
+    {
+        "name": "Flower Pot",
+        "coordinates": [
+            -0.1525619,
+            5.6267862
+        ]
+    },
+    {
+        "name": "Abeka Lapaz",
+        "coordinates": [
+            -0.2466865,
+            5.6072099
+        ]
+    },
+    {
+        "name": "Accra Mall Roundabout",
+        "coordinates": [
+            -0.1741114,
+            5.6210178
+        ]
+    },
+    {
+        "name": "Vulgunizer",
+        "coordinates": [
+            -0.1691149,
+            5.6231117
+        ]
+    },
+    {
+        "name": "Flower Pot",
+        "coordinates": [
+            -0.1535764,
+            5.6269062
+        ]
+    },
+    {
+        "name": "Energy",
+        "coordinates": [
+            -0.1433853,
+            5.630844
+        ]
+    },
+    {
+        "name": "Manet",
+        "coordinates": [
+            -0.1265562,
+            5.6377043
+        ]
+    },
+    {
+        "name": "Printex",
+        "coordinates": [
+            -0.1201955,
+            5.6402316
+        ]
+    },
+    {
+        "name": "Junction Wise",
+        "coordinates": [
+            -0.1130497,
+            5.6431455
+        ]
+    },
+    {
+        "name": "Washing Bay",
+        "coordinates": [
+            -0.0820821,
+            5.6260281
+        ]
+    },
+    {
+        "name": "Swanlake Last Stop",
+        "coordinates": [
+            -0.2339909,
+            5.5840598
+        ]
+    },
+    {
+        "name": "Swanlake",
+        "coordinates": [
+            -0.2317099,
+            5.5853024
+        ]
+    },
+    {
+        "name": "Green Hand",
+        "coordinates": [
+            -0.2303616,
+            5.5819731
+        ]
+    },
+    {
+        "name": "Azumah Nelson Complex",
+        "coordinates": [
+            -0.2269653,
+            5.5750903
+        ]
+    },
+    {
+        "name": "Tema Main Harbour",
+        "coordinates": [
+            0.0031339,
+            5.6452868
+        ]
+    },
+    {
+        "name": "Community 8",
+        "coordinates": [
+            -0.0099318,
+            5.6732099
+        ]
+    },
+    {
+        "name": "Tema Motorway Total",
+        "coordinates": [
+            -0.0139995,
+            5.6826001
+        ]
+    },
+    {
+        "name": "Ashaiman Overhead",
+        "coordinates": [
+            -0.025778,
+            5.6820534
+        ]
+    },
+    {
+        "name": "Trasacco",
+        "coordinates": [
+            -0.1176802,
+            5.6450566
+        ]
+    },
+    {
+        "name": "Neoplan",
+        "coordinates": [
+            -0.2185707,
+            5.5695212
+        ]
+    },
+    {
+        "name": "Tema Community One Market",
+        "coordinates": [
+            0.0012603,
+            5.645189
+        ]
+    },
+    {
+        "name": "Dua Ase",
+        "coordinates": [
+            -0.2176868,
+            5.6111632
+        ]
+    },
+    {
+        "name": "Abelenkpe Curve",
+        "coordinates": [
+            -0.2157098,
+            5.607529
+        ]
+    },
+    {
+        "name": "Accra UTC",
+        "coordinates": [
+            -0.210626,
+            5.5495887
+        ]
+    },
+    {
+        "name": "Roxy Cinema",
+        "coordinates": [
+            -0.2124429,
+            5.5577685
+        ]
+    },
+    {
+        "name": "Adabraka Market",
+        "coordinates": [
+            -0.2139185,
+            5.5630962
+        ]
+    },
+    {
+        "name": "PnP Junction",
+        "coordinates": [
+            -0.2357075,
+            5.5991258
+        ]
+    },
+    {
+        "name": "Abeka Lapaz",
+        "coordinates": [
+            -0.2481701,
+            5.6062795
+        ]
+    },
+    {
+        "name": "Fadama",
+        "coordinates": [
+            -0.2405531,
+            5.6016367
+        ]
+    },
+    {
+        "name": "Abeka Bcos Junction",
+        "coordinates": [
+            -0.2349533,
+            5.598944
+        ]
+    },
+    {
+        "name": "Tesano Gardens",
+        "coordinates": [
+            -0.2305257,
+            5.5984514
+        ]
+    },
+    {
+        "name": "Abrantie",
+        "coordinates": [
+            -0.2286456,
+            5.5987672
+        ]
+    },
+    {
+        "name": "Fitting Shop",
+        "coordinates": [
+            -0.2261722,
+            5.599276
+        ]
+    },
+    {
+        "name": "Alajo",
+        "coordinates": [
+            -0.2179553,
+            5.5887674
+        ]
+    },
+    {
+        "name": "Mr. Biggs",
+        "coordinates": [
+            -0.2133534,
+            5.5677653
+        ]
+    },
+    {
+        "name": "Adabraka Market",
+        "coordinates": [
+            -0.2110657,
+            5.5637
+        ]
+    },
+    {
+        "name": "Champion",
+        "coordinates": [
+            -0.209378,
+            5.5572353
+        ]
+    },
+    {
+        "name": "Starlite",
+        "coordinates": [
+            -0.2090847,
+            5.5559622
+        ]
+    },
+    {
+        "name": "Accra Poly",
+        "coordinates": [
+            -0.20843,
+            5.5534864
+        ]
+    },
+    {
+        "name": "Accra UTC",
+        "coordinates": [
+            -0.2099938,
+            5.54688
+        ]
+    },
+    {
+        "name": "Osu",
+        "coordinates": [
+            -0.1835933,
+            5.554076
+        ]
+    },
+    {
+        "name": "Presby School Junction",
+        "coordinates": [
+            -0.1833494,
+            5.554982
+        ]
+    },
+    {
+        "name": "Papaye",
+        "coordinates": [
+            -0.1822208,
+            5.5595692
+        ]
+    },
+    {
+        "name": "Koala",
+        "coordinates": [
+            -0.1811262,
+            5.5661404
+        ]
+    },
+    {
+        "name": "Police Hospital",
+        "coordinates": [
+            -0.1808304,
+            5.5678104
+        ]
+    },
+    {
+        "name": "Prisons",
+        "coordinates": [
+            -0.1803026,
+            5.5709122
+        ]
+    },
+    {
+        "name": "Aquinas",
+        "coordinates": [
+            -0.1794401,
+            5.5743025
+        ]
+    },
+    {
+        "name": "Osu Shell",
+        "coordinates": [
+            -0.1826812,
+            5.5565974
+        ]
+    },
+    {
+        "name": "Afridom",
+        "coordinates": [
+            -0.1813457,
+            5.564834
+        ]
+    },
+    {
+        "name": "GIS Curve",
+        "coordinates": [
+            -0.175357,
+            5.5800085
+        ]
+    },
+    {
+        "name": "Lands Commission",
+        "coordinates": [
+            -0.1762183,
+            5.5851221
+        ]
+    },
+    {
+        "name": "Post Office",
+        "coordinates": [
+            -0.1761758,
+            5.5853445
+        ]
+    },
+    {
+        "name": "GIS",
+        "coordinates": [
+            -0.1762675,
+            5.5814513
+        ]
+    },
+    {
+        "name": "Morning Star",
+        "coordinates": [
+            -0.1796031,
+            5.5734194
+        ]
+    },
+    {
+        "name": "Prisons",
+        "coordinates": [
+            -0.1804076,
+            5.5699664
+        ]
+    },
+    {
+        "name": "Police Hospital",
+        "coordinates": [
+            -0.1807361,
+            5.5679853
+        ]
+    },
+    {
+        "name": "Penta Hotel",
+        "coordinates": [
+            -0.1811648,
+            5.5653643
+        ]
+    },
+    {
+        "name": "Osu Shell",
+        "coordinates": [
+            -0.1827183,
+            5.5562606
+        ]
+    },
+    {
+        "name": "Green Hand",
+        "coordinates": [
+            -0.2304628,
+            5.5820723
+        ]
+    },
+    {
+        "name": "Old Stop",
+        "coordinates": [
+            -0.2328747,
+            5.5876287
+        ]
+    },
+    {
+        "name": "Kaneshie Market Station",
+        "coordinates": [
+            -0.2352465,
+            5.5658238
+        ]
+    },
+    {
+        "name": "Kaneshie Last Stop",
+        "coordinates": [
+            -0.2340054,
+            5.566246
+        ]
+    },
+    {
+        "name": "Social Welfare",
+        "coordinates": [
+            -0.2343274,
+            5.5688102
+        ]
+    },
+    {
+        "name": "Kaneshie Polyclinic",
+        "coordinates": [
+            -0.2306941,
+            5.574338
+        ]
+    },
+    {
+        "name": "Masalakyi",
+        "coordinates": [
+            -0.2316552,
+            5.5849443
+        ]
+    },
+    {
+        "name": "Second",
+        "coordinates": [
+            -0.2333391,
+            5.5966426
+        ]
+    },
+    {
+        "name": "Russia Station",
+        "coordinates": [
+            -0.2546273,
+            5.5546286
+        ]
+    },
+    {
+        "name": "Curve",
+        "coordinates": [
+            -0.2547593,
+            5.5552689
+        ]
+    },
+    {
+        "name": "Omanko",
+        "coordinates": [
+            -0.253365,
+            5.5559068
+        ]
+    },
+    {
+        "name": "Russia",
+        "coordinates": [
+            -0.2514013,
+            5.5564032
+        ]
+    },
+    {
+        "name": "Roundabout",
+        "coordinates": [
+            -0.2311539,
+            5.572067
+        ]
+    },
+    {
+        "name": "Papaye",
+        "coordinates": [
+            -0.1821385,
+            5.5597486
+        ]
+    },
+    {
+        "name": "Paa Willie",
+        "coordinates": [
+            -0.2518778,
+            5.5595035
+        ]
+    },
+    {
+        "name": "Flamingo",
+        "coordinates": [
+            -0.2470408,
+            5.5589078
+        ]
+    },
+    {
+        "name": "JT",
+        "coordinates": [
+            -0.2454452,
+            5.5626042
+        ]
+    },
+    {
+        "name": "First Light",
+        "coordinates": [
+            -0.2438616,
+            5.5662598
+        ]
+    },
+    {
+        "name": "Kaneshie",
+        "coordinates": [
+            -0.2349515,
+            5.5645675
+        ]
+    },
+    {
+        "name": "First Light",
+        "coordinates": [
+            -0.2426501,
+            5.5678938
+        ]
+    },
+    {
+        "name": "JT",
+        "coordinates": [
+            -0.2452565,
+            5.5626227
+        ]
+    },
+    {
+        "name": "Seventh Day Adventist",
+        "coordinates": [
+            -0.246258,
+            5.5591138
+        ]
+    },
+    {
+        "name": "Paa Willie",
+        "coordinates": [
+            -0.251848,
+            5.5595961
+        ]
+    },
+    {
+        "name": "Russia",
+        "coordinates": [
+            -0.2510543,
+            5.5564131
+        ]
+    },
+    {
+        "name": "Omanko",
+        "coordinates": [
+            -0.2536072,
+            5.5557969
+        ]
+    },
+    {
+        "name": "Flat Top",
+        "coordinates": [
+            -0.2373671,
+            5.6091079
+        ]
+    },
+    {
+        "name": "PnP Junction",
+        "coordinates": [
+            -0.235791,
+            5.5992202
+        ]
+    },
+    {
+        "name": "Masalakyi",
+        "coordinates": [
+            -0.231531,
+            5.5847277
+        ]
+    },
+    {
+        "name": "Adenta Station",
+        "coordinates": [
+            -0.1656149,
+            5.7060932
+        ]
+    },
+    {
+        "name": "Goil Filling Station",
+        "coordinates": [
+            -0.1716013,
+            5.7000568
+        ]
+    },
+    {
+        "name": "SDA",
+        "coordinates": [
+            -0.1715723,
+            5.6966811
+        ]
+    },
+    {
+        "name": "Assemblies",
+        "coordinates": [
+            -0.1715395,
+            5.6914266
+        ]
+    },
+    {
+        "name": "Ritz Junction",
+        "coordinates": [
+            -0.1713683,
+            5.6876395
+        ]
+    },
+    {
+        "name": "Madina Masalachi",
+        "coordinates": [
+            -0.1726782,
+            5.6791469
+        ]
+    },
+    {
+        "name": "Madina Zongo Junction",
+        "coordinates": [
+            -0.1737787,
+            5.6753566
+        ]
+    },
+    {
+        "name": "Fire Stone",
+        "coordinates": [
+            -0.1751118,
+            5.6712951
+        ]
+    },
+    {
+        "name": "Atomic Second",
+        "coordinates": [
+            -0.1766341,
+            5.6679806
+        ]
+    },
+    {
+        "name": "Atomic First",
+        "coordinates": [
+            -0.1770577,
+            5.6662381
+        ]
+    },
+    {
+        "name": "UPS",
+        "coordinates": [
+            -0.1782402,
+            5.6607021
+        ]
+    },
+    {
+        "name": "Airport Junction",
+        "coordinates": [
+            -0.1794792,
+            5.6219506
+        ]
+    },
+    {
+        "name": "GSL",
+        "coordinates": [
+            -0.1992563,
+            5.6168459
+        ]
+    },
+    {
+        "name": "Sue's Inn",
+        "coordinates": [
+            -0.2327094,
+            5.6107032
+        ]
+    },
+    {
+        "name": "Sunlight",
+        "coordinates": [
+            -0.2320374,
+            5.589739
+        ]
+    },
+    {
+        "name": "Old Stop",
+        "coordinates": [
+            -0.2327239,
+            5.5875218
+        ]
+    },
+    {
+        "name": "Pentecost",
+        "coordinates": [
+            -0.2290372,
+            5.5802667
+        ]
+    },
+    {
+        "name": "St. Theresa's",
+        "coordinates": [
+            -0.2282996,
+            5.5794518
+        ]
+    },
+    {
+        "name": "Fire Stone",
+        "coordinates": [
+            -0.1756988,
+            5.6709335
+        ]
+    },
+    {
+        "name": "Madina Zongo Junction",
+        "coordinates": [
+            -0.1735825,
+            5.6773746
+        ]
+    },
+    {
+        "name": "Redco",
+        "coordinates": [
+            -0.1716386,
+            5.6821455
+        ]
+    },
+    {
+        "name": "Assemblies",
+        "coordinates": [
+            -0.1719289,
+            5.692931
+        ]
+    },
+    {
+        "name": "SDA",
+        "coordinates": [
+            -0.1720302,
+            5.6965301
+        ]
+    },
+    {
+        "name": "Goil Filling Station",
+        "coordinates": [
+            -0.1719869,
+            5.7000384
+        ]
+    },
+    {
+        "name": "Adenta Barrier",
+        "coordinates": [
+            -0.1715852,
+            5.7057904
+        ]
+    },
+    {
+        "name": "Pamprom",
+        "coordinates": [
+            -0.2307635,
+            5.5656316
+        ]
+    },
+    {
+        "name": "Awudome Cemetery",
+        "coordinates": [
+            -0.2234054,
+            5.5674149
+        ]
+    },
+    {
+        "name": "Equip",
+        "coordinates": [
+            -0.2101909,
+            5.5711239
+        ]
+    },
+    {
+        "name": "Nima Police Station",
+        "coordinates": [
+            -0.2007878,
+            5.5742089
+        ]
+    },
+    {
+        "name": "Mobil / Kanda Overhead",
+        "coordinates": [
+            -0.1975167,
+            5.5741271
+        ]
+    },
+    {
+        "name": "TV3",
+        "coordinates": [
+            -0.1896684,
+            5.5763199
+        ]
+    },
+    {
+        "name": "Flagstaff House",
+        "coordinates": [
+            -0.1881095,
+            5.5763685
+        ]
+    },
+    {
+        "name": "37 Water Works",
+        "coordinates": [
+            -0.1854895,
+            5.5825313
+        ]
+    },
+    {
+        "name": "37",
+        "coordinates": [
+            -0.1810542,
+            5.5911748
+        ]
+    },
+    {
+        "name": "Opeibea Second",
+        "coordinates": [
+            -0.1801215,
+            5.5952582
+        ]
+    },
+    {
+        "name": "Airport First",
+        "coordinates": [
+            -0.1772453,
+            5.6080818
+        ]
+    },
+    {
+        "name": "Legon Second Gate",
+        "coordinates": [
+            -0.1774611,
+            5.6357626
+        ]
+    },
+    {
+        "name": "UPS",
+        "coordinates": [
+            -0.1789525,
+            5.6590934
+        ]
+    },
+    {
+        "name": "Presec",
+        "coordinates": [
+            -0.1783598,
+            5.6617587
+        ]
+    },
+    {
+        "name": "Atomic Second",
+        "coordinates": [
+            -0.1775621,
+            5.6663817
+        ]
+    },
+    {
+        "name": "Atomic First",
+        "coordinates": [
+            -0.1770169,
+            5.6684108
+        ]
+    },
+    {
+        "name": "Ritz Second",
+        "coordinates": [
+            -0.171546,
+            5.6852441
+        ]
+    },
+    {
+        "name": "Ritz First",
+        "coordinates": [
+            -0.1716798,
+            5.6882045
+        ]
+    },
+    {
+        "name": "Mamponse",
+        "coordinates": [
+            -0.2736519,
+            5.52768
+        ]
+    },
+    {
+        "name": "Ebenezer",
+        "coordinates": [
+            -0.2698437,
+            5.5295119
+        ]
+    },
+    {
+        "name": "Point 6",
+        "coordinates": [
+            -0.2683841,
+            5.528276
+        ]
+    },
+    {
+        "name": "Atomic",
+        "coordinates": [
+            -0.2659963,
+            5.527639
+        ]
+    },
+    {
+        "name": "Karikari",
+        "coordinates": [
+            -0.2614355,
+            5.5309817
+        ]
+    },
+    {
+        "name": "Zone 6",
+        "coordinates": [
+            -0.2575751,
+            5.5314411
+        ]
+    },
+    {
+        "name": "Agege",
+        "coordinates": [
+            -0.2549926,
+            5.5317991
+        ]
+    },
+    {
+        "name": "205",
+        "coordinates": [
+            -0.2540035,
+            5.5319607
+        ]
+    },
+    {
+        "name": "Lotto House",
+        "coordinates": [
+            -0.2511647,
+            5.5324642
+        ]
+    },
+    {
+        "name": "USA",
+        "coordinates": [
+            -0.2483771,
+            5.5322769
+        ]
+    },
+    {
+        "name": "Bamboi",
+        "coordinates": [
+            -0.2462328,
+            5.5328628
+        ]
+    },
+    {
+        "name": "Methodist",
+        "coordinates": [
+            -0.2444205,
+            5.5348583
+        ]
+    },
+    {
+        "name": "Bamboi",
+        "coordinates": [
+            -0.2462315,
+            5.5327788
+        ]
+    },
+    {
+        "name": "Atomic",
+        "coordinates": [
+            -0.2664628,
+            5.5272151
+        ]
+    },
+    {
+        "name": "205",
+        "coordinates": [
+            -0.253574,
+            5.531965
+        ]
+    },
+    {
+        "name": "Agege Last Stop",
+        "coordinates": [
+            -0.2641792,
+            5.529133
+        ]
+    },
+    {
+        "name": "Mamprobi Alhaji Station",
+        "coordinates": [
+            -0.2504105,
+            5.5309718
+        ]
+    },
+    {
+        "name": "JB Spot",
+        "coordinates": [
+            -0.2476161,
+            5.531242
+        ]
+    },
+    {
+        "name": "Junction",
+        "coordinates": [
+            -0.2428767,
+            5.534047
+        ]
+    },
+    {
+        "name": "Sempe First",
+        "coordinates": [
+            -0.2390579,
+            5.5385926
+        ]
+    },
+    {
+        "name": "Methodist",
+        "coordinates": [
+            -0.2447442,
+            5.5344039
+        ]
+    },
+    {
+        "name": "Kaneshie Takoradi Station",
+        "coordinates": [
+            -0.2370755,
+            5.5648094
+        ]
+    },
+    {
+        "name": "Sempe Second",
+        "coordinates": [
+            -0.2400797,
+            5.5375136
+        ]
+    },
+    {
+        "name": "Abodwe",
+        "coordinates": [
+            -0.2422865,
+            5.53506
+        ]
+    },
+    {
+        "name": "Alhaji Junction",
+        "coordinates": [
+            -0.2476115,
+            5.531201
+        ]
+    },
+    {
+        "name": "New Town",
+        "coordinates": [
+            -0.2084889,
+            5.5827214
+        ]
+    },
+    {
+        "name": "Obour Ba",
+        "coordinates": [
+            -0.2075849,
+            5.578112
+        ]
+    },
+    {
+        "name": "Challenge",
+        "coordinates": [
+            -0.209728,
+            5.576912
+        ]
+    },
+    {
+        "name": "NDC",
+        "coordinates": [
+            -0.2128873,
+            5.5792706
+        ]
+    },
+    {
+        "name": "Avalley",
+        "coordinates": [
+            -0.2158397,
+            5.5805706
+        ]
+    },
+    {
+        "name": "Hubtel",
+        "coordinates": [
+            -0.2157956,
+            5.5784909
+        ]
+    },
+    {
+        "name": "Ashaiman",
+        "coordinates": [
+            -0.0327126,
+            5.6869137
+        ]
+    },
+    {
+        "name": "Washing Bay",
+        "coordinates": [
+            -0.0279198,
+            5.685137
+        ]
+    },
+    {
+        "name": "Abattoir",
+        "coordinates": [
+            -0.0713925,
+            5.6622447
+        ]
+    },
+    {
+        "name": "Accra Mall",
+        "coordinates": [
+            -0.1743056,
+            5.6235673
+        ]
+    },
+    {
+        "name": "Caprice Taxi Station",
+        "coordinates": [
+            -0.2172718,
+            5.5844696
+        ]
+    },
+    {
+        "name": "Akoko Darko Junction",
+        "coordinates": [
+            -0.2156386,
+            5.5851589
+        ]
+    },
+    {
+        "name": "Accra New Town Taxi Station",
+        "coordinates": [
+            -0.2088698,
+            5.5815197
+        ]
+    },
+    {
+        "name": "Odorkor",
+        "coordinates": [
+            -0.2637615,
+            5.5812246
+        ]
+    },
+    {
+        "name": "Cold Store",
+        "coordinates": [
+            -0.2657017,
+            5.5794279
+        ]
+    },
+    {
+        "name": "Busia Junction",
+        "coordinates": [
+            -0.267294,
+            5.5787991
+        ]
+    },
+    {
+        "name": "Crystal",
+        "coordinates": [
+            -0.2665905,
+            5.5761773
+        ]
+    },
+    {
+        "name": "Dela",
+        "coordinates": [
+            -0.2712174,
+            5.5705158
+        ]
+    },
+    {
+        "name": "Tetegu",
+        "coordinates": [
+            -0.3096742,
+            5.5539403
+        ]
+    },
+    {
+        "name": "Thirteen",
+        "coordinates": [
+            -0.270218,
+            5.5676156
+        ]
+    },
+    {
+        "name": "Ave Maria",
+        "coordinates": [
+            -0.2687496,
+            5.5653597
+        ]
+    },
+    {
+        "name": "Oxygen (o2)",
+        "coordinates": [
+            -0.2652062,
+            5.5612607
+        ]
+    },
+    {
+        "name": "St. Martin Depores",
+        "coordinates": [
+            -0.2651201,
+            5.5597816
+        ]
+    },
+    {
+        "name": "Dansoman Roundabout",
+        "coordinates": [
+            -0.2646243,
+            5.5567255
+        ]
+    },
+    {
+        "name": "Mama's Inn",
+        "coordinates": [
+            -0.2644759,
+            5.554371
+        ]
+    },
+    {
+        "name": "Beecham",
+        "coordinates": [
+            -0.264496,
+            5.5523658
+        ]
+    },
+    {
+        "name": "Sahara",
+        "coordinates": [
+            -0.2645143,
+            5.5505587
+        ]
+    },
+    {
+        "name": "Dansoman Control",
+        "coordinates": [
+            -0.2645437,
+            5.5459695
+        ]
+    },
+    {
+        "name": "Dansoman Police Station",
+        "coordinates": [
+            -0.2645687,
+            5.5435269
+        ]
+    },
+    {
+        "name": "Dansoman Market",
+        "coordinates": [
+            -0.2646057,
+            5.5411138
+        ]
+    },
+    {
+        "name": "Exhibition (Dansoman)",
+        "coordinates": [
+            -0.2647419,
+            5.5379064
+        ]
+    },
+    {
+        "name": "Seven Great",
+        "coordinates": [
+            -0.2651323,
+            5.5352343
+        ]
+    },
+    {
+        "name": "Kofi ne Ama",
+        "coordinates": [
+            -0.2652411,
+            5.5324576
+        ]
+    },
+    {
+        "name": "Dansoman Last Stop",
+        "coordinates": [
+            -0.2653083,
+            5.529697
+        ]
+    },
+    {
+        "name": "Kofi ne Ama",
+        "coordinates": [
+            -0.2653134,
+            5.5330451
+        ]
+    },
+    {
+        "name": "Seven Great",
+        "coordinates": [
+            -0.2651739,
+            5.5356714
+        ]
+    },
+    {
+        "name": "Exhibition (Dansoman)",
+        "coordinates": [
+            -0.2648883,
+            5.5379947
+        ]
+    },
+    {
+        "name": "Dansoman Market",
+        "coordinates": [
+            -0.2647488,
+            5.5415133
+        ]
+    },
+    {
+        "name": "Dansoman Police Station",
+        "coordinates": [
+            -0.2646992,
+            5.5440301
+        ]
+    },
+    {
+        "name": "Dansoman Control",
+        "coordinates": [
+            -0.2646542,
+            5.5462927
+        ]
+    },
+    {
+        "name": "Sahara",
+        "coordinates": [
+            -0.2646495,
+            5.5498053
+        ]
+    },
+    {
+        "name": "Beecham",
+        "coordinates": [
+            -0.2646241,
+            5.5520958
+        ]
+    },
+    {
+        "name": "Mama's Inn",
+        "coordinates": [
+            -0.2645959,
+            5.5544064
+        ]
+    },
+    {
+        "name": "Dansoman Roundabout",
+        "coordinates": [
+            -0.2648474,
+            5.5572835
+        ]
+    },
+    {
+        "name": "St. Martin Depores",
+        "coordinates": [
+            -0.2652108,
+            5.5596502
+        ]
+    },
+    {
+        "name": "Thirteen",
+        "coordinates": [
+            -0.2703117,
+            5.5676582
+        ]
+    },
+    {
+        "name": "Dela",
+        "coordinates": [
+            -0.2714024,
+            5.5708658
+        ]
+    },
+    {
+        "name": "Oxygen (o2)",
+        "coordinates": [
+            -0.2652406,
+            5.5611133
+        ]
+    },
+    {
+        "name": "Ave Maria",
+        "coordinates": [
+            -0.2681883,
+            5.564806
+        ]
+    },
+    {
+        "name": "Sakaman Taxi Rank",
+        "coordinates": [
+            -0.2722016,
+            5.5714297
+        ]
+    },
+    {
+        "name": "Tantua School",
+        "coordinates": [
+            -0.2727864,
+            5.5724371
+        ]
+    },
+    {
+        "name": "Sakaman",
+        "coordinates": [
+            -0.2743683,
+            5.5754152
+        ]
+    },
+    {
+        "name": "Emmanuel Presby",
+        "coordinates": [
+            -0.2646296,
+            5.5484033
+        ]
+    },
+    {
+        "name": "King Solomon",
+        "coordinates": [
+            -0.2645958,
+            5.5552515
+        ]
+    },
+    {
+        "name": "Dansoman First Stop",
+        "coordinates": [
+            -0.2604443,
+            5.5604364
+        ]
+    },
+    {
+        "name": "Dansoman Polyclinic",
+        "coordinates": [
+            -0.2602309,
+            5.5612946
+        ]
+    },
+    {
+        "name": "Akukofoto",
+        "coordinates": [
+            -0.2600097,
+            5.5643918
+        ]
+    },
+    {
+        "name": "Wesley Grammar",
+        "coordinates": [
+            -0.2585125,
+            5.5665916
+        ]
+    },
+    {
+        "name": "Asoredanho Curve",
+        "coordinates": [
+            -0.257634,
+            5.5675754
+        ]
+    },
+    {
+        "name": "Dansoman Asoredanho",
+        "coordinates": [
+            -0.2553578,
+            5.5703992
+        ]
+    },
+    {
+        "name": "Hansonic Taxi Rank",
+        "coordinates": [
+            -0.2526072,
+            5.5747317
+        ]
+    },
+    {
+        "name": "Dansoman Asoredanho",
+        "coordinates": [
+            -0.2554026,
+            5.5702303
+        ]
+    },
+    {
+        "name": "Asoredanho Curve",
+        "coordinates": [
+            -0.2565312,
+            5.5680446
+        ]
+    },
+    {
+        "name": "Akukofoto",
+        "coordinates": [
+            -0.2598464,
+            5.5646289
+        ]
+    },
+    {
+        "name": "Dansoman Polyclinic",
+        "coordinates": [
+            -0.2601857,
+            5.5611411
+        ]
+    },
+    {
+        "name": "Dansoman First Stop",
+        "coordinates": [
+            -0.2601891,
+            5.5599771
+        ]
+    },
+    {
+        "name": "Emmanuel Presby",
+        "coordinates": [
+            -0.2645108,
+            5.548345
+        ]
+    },
+    {
+        "name": "Wesley Grammar",
+        "coordinates": [
+            -0.2582445,
+            5.5668523
+        ]
+    },
+    {
+        "name": "Abomatte",
+        "coordinates": [
+            -0.2601868,
+            5.5626814
+        ]
+    },
+    {
+        "name": "MTN",
+        "coordinates": [
+            -0.2613127,
+            5.5586785
+        ]
+    },
+    {
+        "name": "Sankara",
+        "coordinates": [
+            -0.1912203,
+            5.5727986
+        ]
+    },
+    {
+        "name": "Danquah",
+        "coordinates": [
+            -0.1825848,
+            5.566987
+        ]
+    },
+    {
+        "name": "Fire Service",
+        "coordinates": [
+            -0.1854365,
+            5.569301
+        ]
+    },
+    {
+        "name": "Police Headquarters",
+        "coordinates": [
+            -0.1872735,
+            5.5703034
+        ]
+    },
+    {
+        "name": "GBC Second",
+        "coordinates": [
+            -0.1922124,
+            5.5730129
+        ]
+    },
+    {
+        "name": "GBC First",
+        "coordinates": [
+            -0.1937479,
+            5.5738953
+        ]
+    },
+    {
+        "name": "Multi Choice",
+        "coordinates": [
+            -0.2031773,
+            5.5725479
+        ]
+    },
+    {
+        "name": "Kotobabi Down",
+        "coordinates": [
+            -0.2094022,
+            5.5956831
+        ]
+    },
+    {
+        "name": "Tobinco Junction",
+        "coordinates": [
+            -0.2062882,
+            5.5933223
+        ]
+    },
+    {
+        "name": "Taxi Rank",
+        "coordinates": [
+            -0.2054596,
+            5.5919778
+        ]
+    },
+    {
+        "name": "Nkansah Gyan",
+        "coordinates": [
+            -0.2064931,
+            5.5908254
+        ]
+    },
+    {
+        "name": "Five Five",
+        "coordinates": [
+            -0.2072405,
+            5.5896396
+        ]
+    },
+    {
+        "name": "37 Station",
+        "coordinates": [
+            -0.2075199,
+            5.5869902
+        ]
+    },
+    {
+        "name": "Curve",
+        "coordinates": [
+            -0.2060519,
+            5.5865003
+        ]
+    },
+    {
+        "name": "Commercial Bank",
+        "coordinates": [
+            -0.2063164,
+            5.5853664
+        ]
+    },
+    {
+        "name": "College",
+        "coordinates": [
+            -0.2068106,
+            5.5834895
+        ]
+    },
+    {
+        "name": "Commandos",
+        "coordinates": [
+            -0.2045886,
+            5.5803082
+        ]
+    },
+    {
+        "name": "Nima Police Station",
+        "coordinates": [
+            -0.2007228,
+            5.5743983
+        ]
+    },
+    {
+        "name": "Cathedral",
+        "coordinates": [
+            -0.206154,
+            5.5635738
+        ]
+    },
+    {
+        "name": "Tigo Office",
+        "coordinates": [
+            -0.2055652,
+            5.5581904
+        ]
+    },
+    {
+        "name": "Accra New Tema Station",
+        "coordinates": [
+            -0.2011213,
+            5.5486694
+        ]
+    },
+    {
+        "name": "Tobinco Junction",
+        "coordinates": [
+            -0.2063142,
+            5.593276
+        ]
+    },
+    {
+        "name": "Railways",
+        "coordinates": [
+            -0.2110048,
+            5.5522741
+        ]
+    },
+    {
+        "name": "Kingsway",
+        "coordinates": [
+            -0.2112315,
+            5.553366
+        ]
+    },
+    {
+        "name": "Dance Bar",
+        "coordinates": [
+            -0.2147043,
+            5.566038
+        ]
+    },
+    {
+        "name": "Commercial Bank",
+        "coordinates": [
+            -0.2152924,
+            5.5683543
+        ]
+    },
+    {
+        "name": "Madina",
+        "coordinates": [
+            -0.1716389,
+            5.6766804
+        ]
+    },
+    {
+        "name": "Presec",
+        "coordinates": [
+            -0.1778309,
+            5.6625534
+        ]
+    },
+    {
+        "name": "Akweteyman",
+        "coordinates": [
+            -0.231767,
+            5.6110956
+        ]
+    },
+    {
+        "name": "Ashaiman Police Station",
+        "coordinates": [
+            -0.0309992,
+            5.687541
+        ]
+    },
+    {
+        "name": "Ashaiman Traffic Junction",
+        "coordinates": [
+            -0.0290049,
+            5.6864849
+        ]
+    },
+    {
+        "name": "18 Junction",
+        "coordinates": [
+            -0.075648,
+            5.6605594
+        ]
+    },
+    {
+        "name": "KICC",
+        "coordinates": [
+            -0.0953075,
+            5.6541208
+        ]
+    },
+    {
+        "name": "Ashaiman Overhead",
+        "coordinates": [
+            -0.0255552,
+            5.6826122
+        ]
+    },
+    {
+        "name": "Bus Stop",
+        "coordinates": [
+            -0.2498049,
+            5.6422381
+        ]
+    },
+    {
+        "name": "Taifa",
+        "coordinates": [
+            -0.252853,
+            5.6583888
+        ]
+    },
+    {
+        "name": "Daavi",
+        "coordinates": [
+            -0.2524653,
+            5.6551228
+        ]
+    },
+    {
+        "name": "Airport",
+        "coordinates": [
+            -0.2527234,
+            5.6533152
+        ]
+    },
+    {
+        "name": "Taifa Junction",
+        "coordinates": [
+            -0.2516116,
+            5.6493606
+        ]
+    },
+    {
+        "name": "St. Anthony School",
+        "coordinates": [
+            -0.2500769,
+            5.6194047
+        ]
+    },
+    {
+        "name": "Taifa Junction",
+        "coordinates": [
+            -0.2524267,
+            5.6495117
+        ]
+    },
+    {
+        "name": "Pharmacy",
+        "coordinates": [
+            -0.2490648,
+            5.6239036
+        ]
+    },
+    {
+        "name": "Taifa Junction",
+        "coordinates": [
+            -0.2512271,
+            5.6483787
+        ]
+    },
+    {
+        "name": "Ofankor Barrier",
+        "coordinates": [
+            -0.2654701,
+            5.6576644
+        ]
+    },
+    {
+        "name": "Junction",
+        "coordinates": [
+            -0.2524811,
+            5.6528315
+        ]
+    },
+    {
+        "name": "Site 7",
+        "coordinates": [
+            -0.0008416,
+            5.652834
+        ]
+    },
+    {
+        "name": "CP",
+        "coordinates": [
+            -0.2118865,
+            5.6157442
+        ]
+    },
+    {
+        "name": "Festus",
+        "coordinates": [
+            -0.2885816,
+            5.6931058
+        ]
+    },
+    {
+        "name": "Amasaman",
+        "coordinates": [
+            -0.2976051,
+            5.7049276
+        ]
+    },
+    {
+        "name": "Fusi Junction",
+        "coordinates": [
+            -0.2919485,
+            5.6983793
+        ]
+    },
+    {
+        "name": "Pokuase Junction",
+        "coordinates": [
+            -0.2819882,
+            5.6877852
+        ]
+    },
+    {
+        "name": "ACP Junction",
+        "coordinates": [
+            -0.2773301,
+            5.6842486
+        ]
+    },
+    {
+        "name": "John Teye",
+        "coordinates": [
+            -0.270424,
+            5.6673297
+        ]
+    },
+    {
+        "name": "Fusi Junction",
+        "coordinates": [
+            -0.2921543,
+            5.6982008
+        ]
+    },
+    {
+        "name": "Pokuase Junction",
+        "coordinates": [
+            -0.281644,
+            5.6871806
+        ]
+    },
+    {
+        "name": "John Teye",
+        "coordinates": [
+            -0.2711418,
+            5.6691212
+        ]
+    },
+    {
+        "name": "Amasaman",
+        "coordinates": [
+            -0.2982925,
+            5.7055265
+        ]
+    },
+    {
+        "name": "Kasoa",
+        "coordinates": [
+            -0.4237953,
+            5.5347882
+        ]
+    },
+    {
+        "name": "Abeka Lapaz",
+        "coordinates": [
+            -0.2465044,
+            5.6079845
+        ]
+    },
+    {
+        "name": "Pink FM",
+        "coordinates": [
+            -0.4163409,
+            5.5356813
+        ]
+    },
+    {
+        "name": "Iron City",
+        "coordinates": [
+            -0.4109579,
+            5.5357802
+        ]
+    },
+    {
+        "name": "Washing Bay",
+        "coordinates": [
+            -0.4062946,
+            5.5368843
+        ]
+    },
+    {
+        "name": "Galelia",
+        "coordinates": [
+            -0.3988882,
+            5.5390738
+        ]
+    },
+    {
+        "name": "Broadcasting",
+        "coordinates": [
+            -0.3589589,
+            5.5522963
+        ]
+    },
+    {
+        "name": "Mile Eleven",
+        "coordinates": [
+            -0.3556582,
+            5.5509516
+        ]
+    },
+    {
+        "name": "Shoprite",
+        "coordinates": [
+            -0.342076,
+            5.5463936
+        ]
+    },
+    {
+        "name": "Weija Barrier",
+        "coordinates": [
+            -0.3302807,
+            5.5510341
+        ]
+    },
+    {
+        "name": "Weija Junction",
+        "coordinates": [
+            -0.3038519,
+            5.5559137
+        ]
+    },
+    {
+        "name": "Nyamekye",
+        "coordinates": [
+            -0.2588385,
+            5.6023374
+        ]
+    },
+    {
+        "name": "Benjy's Lodge",
+        "coordinates": [
+            -0.2892353,
+            5.564107
+        ]
+    },
+    {
+        "name": "Bus Stop",
+        "coordinates": [
+            -0.2895545,
+            5.5641557
+        ]
+    },
+    {
+        "name": "SCC",
+        "coordinates": [
+            -0.3385323,
+            5.5473118
+        ]
+    },
+    {
+        "name": "Brigade",
+        "coordinates": [
+            -0.3951585,
+            5.5405429
+        ]
+    },
+    {
+        "name": "Galelia",
+        "coordinates": [
+            -0.3984569,
+            5.5389731
+        ]
+    },
+    {
+        "name": "Washing Bay",
+        "coordinates": [
+            -0.4066658,
+            5.5364583
+        ]
+    },
+    {
+        "name": "Amanfrom",
+        "coordinates": [
+            -0.4124889,
+            5.5354525
+        ]
+    },
+    {
+        "name": "Hong Kong",
+        "coordinates": [
+            -0.2627026,
+            5.599321
+        ]
+    },
+    {
+        "name": "Kwashieman",
+        "coordinates": [
+            -0.2698644,
+            5.5893862
+        ]
+    },
+    {
+        "name": "McCarthy",
+        "coordinates": [
+            -0.2879177,
+            5.5670112
+        ]
+    },
+    {
+        "name": "Tetegu",
+        "coordinates": [
+            -0.3088674,
+            5.5539141
+        ]
+    },
+    {
+        "name": "Modex",
+        "coordinates": [
+            -0.3224709,
+            5.5530226
+        ]
+    },
+    {
+        "name": "Ayigbe Town",
+        "coordinates": [
+            -0.3530739,
+            5.549634
+        ]
+    },
+    {
+        "name": "Broadcasting",
+        "coordinates": [
+            -0.3584957,
+            5.5519072
+        ]
+    },
+    {
+        "name": "Galelia Market",
+        "coordinates": [
+            -0.4005726,
+            5.5381989
+        ]
+    },
+    {
+        "name": "Kasoa",
+        "coordinates": [
+            -0.4242906,
+            5.5343038
+        ]
+    },
+    {
+        "name": "Satellite",
+        "coordinates": [
+            -0.3186102,
+            5.7466844
+        ]
+    },
+    {
+        "name": "Kontunse",
+        "coordinates": [
+            -0.3159991,
+            5.7416858
+        ]
+    },
+    {
+        "name": "Bus Stop",
+        "coordinates": [
+            -0.3130031,
+            5.732165
+        ]
+    },
+    {
+        "name": "Macedonia",
+        "coordinates": [
+            -0.3124036,
+            5.7299805
+        ]
+    },
+    {
+        "name": "Shikpontele",
+        "coordinates": [
+            -0.3084731,
+            5.7182617
+        ]
+    },
+    {
+        "name": "Bus Stop",
+        "coordinates": [
+            -0.3033951,
+            5.7106194
+        ]
+    },
+    {
+        "name": "Ofankor Barrier",
+        "coordinates": [
+            -0.2647851,
+            5.6576107
+        ]
+    },
+    {
+        "name": "Kotokou",
+        "coordinates": [
+            -0.3568133,
+            5.7401072
+        ]
+    },
+    {
+        "name": "School Junction",
+        "coordinates": [
+            -0.3549787,
+            5.741362
+        ]
+    },
+    {
+        "name": "Medie",
+        "coordinates": [
+            -0.32598,
+            5.7619486
+        ]
+    },
+    {
+        "name": "Sarpeiman",
+        "coordinates": [
+            -0.3110896,
+            5.7256372
+        ]
+    },
+    {
+        "name": "Toman",
+        "coordinates": [
+            -0.3050504,
+            5.7122526
+        ]
+    },
+    {
+        "name": "Sapeiman",
+        "coordinates": [
+            -0.3113924,
+            5.7257431
+        ]
+    },
+    {
+        "name": "Festus",
+        "coordinates": [
+            -0.287525,
+            5.6917871
+        ]
+    },
+    {
+        "name": "Toman",
+        "coordinates": [
+            -0.3047502,
+            5.7114499
+        ]
+    },
+    {
+        "name": "Agya Appiah",
+        "coordinates": [
+            -0.3074529,
+            5.7158309
+        ]
+    },
+    {
+        "name": "Sapeiman",
+        "coordinates": [
+            -0.3123328,
+            5.7287391
+        ]
+    },
+    {
+        "name": "Kontunse",
+        "coordinates": [
+            -0.3158999,
+            5.7409408
+        ]
+    },
+    {
+        "name": "Medie",
+        "coordinates": [
+            -0.3257936,
+            5.7605595
+        ]
+    },
+    {
+        "name": "Galelia Market",
+        "coordinates": [
+            -0.4013765,
+            5.5382376
+        ]
+    },
+    {
+        "name": "Tuba",
+        "coordinates": [
+            -0.3827197,
+            5.5468319
+        ]
+    },
+    {
+        "name": "Ayigbe Town",
+        "coordinates": [
+            -0.3538303,
+            5.5502324
+        ]
+    },
+    {
+        "name": "Second",
+        "coordinates": [
+            -0.4189544,
+            5.5355393
+        ]
+    },
+    {
+        "name": "Amanfrom",
+        "coordinates": [
+            -0.4128164,
+            5.5356917
+        ]
+    },
+    {
+        "name": "Brigade",
+        "coordinates": [
+            -0.394647,
+            5.5410814
+        ]
+    },
+    {
+        "name": "Chinese",
+        "coordinates": [
+            -0.3897805,
+            5.5434112
+        ]
+    },
+    {
+        "name": "SCC",
+        "coordinates": [
+            -0.3387368,
+            5.5475403
+        ]
+    },
+    {
+        "name": "Block Factory",
+        "coordinates": [
+            -0.3354833,
+            5.5488949
+        ]
+    },
+    {
+        "name": "Water Works",
+        "coordinates": [
+            -0.2779412,
+            5.5798023
+        ]
+    },
+    {
+        "name": "Vineyard",
+        "coordinates": [
+            -0.2729429,
+            5.5859568
+        ]
+    },
+    {
+        "name": "Hong Kong",
+        "coordinates": [
+            -0.261077,
+            5.6012928
+        ]
+    },
+    {
+        "name": "Kata",
+        "coordinates": [
+            -0.2595904,
+            5.6022547
+        ]
+    },
+    {
+        "name": "Kwashieman Junction",
+        "coordinates": [
+            -0.2668543,
+            5.5941616
+        ]
+    },
+    {
+        "name": "Abrantie",
+        "coordinates": [
+            -0.2527586,
+            5.6051502
+        ]
+    },
+    {
+        "name": "Water Works",
+        "coordinates": [
+            -0.2778165,
+            5.5795476
+        ]
+    },
+    {
+        "name": "Shoprite",
+        "coordinates": [
+            -0.3416524,
+            5.5462353
+        ]
+    },
+    {
+        "name": "Vineyard",
+        "coordinates": [
+            -0.2755232,
+            5.5821908
+        ]
+    },
+    {
+        "name": "Agya Herbal",
+        "coordinates": [
+            -0.2717255,
+            5.6726545
+        ]
+    },
+    {
+        "name": "Income Tax",
+        "coordinates": [
+            -0.2629554,
+            5.6563004
+        ]
+    },
+    {
+        "name": "Spot M",
+        "coordinates": [
+            -0.2597056,
+            5.654124
+        ]
+    },
+    {
+        "name": "Tantra Hills",
+        "coordinates": [
+            -0.2472712,
+            5.6460553
+        ]
+    },
+    {
+        "name": "Tantra Resevoir",
+        "coordinates": [
+            -0.2506602,
+            5.6415811
+        ]
+    },
+    {
+        "name": "Roman",
+        "coordinates": [
+            -0.250826,
+            5.6341761
+        ]
+    },
+    {
+        "name": "Income Tax",
+        "coordinates": [
+            -0.2611788,
+            5.6545791
+        ]
+    },
+    {
+        "name": "Agya Herbal",
+        "coordinates": [
+            -0.2719572,
+            5.6723741
+        ]
+    },
+    {
+        "name": "Links Garden",
+        "coordinates": [
+            -0.2466654,
+            5.6148022
+        ]
+    },
+    {
+        "name": "Alhadji No Front",
+        "coordinates": [
+            -0.2490542,
+            5.6166925
+        ]
+    },
+    {
+        "name": "Rasta Park",
+        "coordinates": [
+            -0.251604,
+            5.6325717
+        ]
+    },
+    {
+        "name": "Roman",
+        "coordinates": [
+            -0.2508666,
+            5.6344603
+        ]
+    },
+    {
+        "name": "Washing Bay/Tantra Hills Estate",
+        "coordinates": [
+            -0.2506448,
+            5.6361666
+        ]
+    },
+    {
+        "name": "Tantra Reservoir",
+        "coordinates": [
+            -0.2506472,
+            5.6416549
+        ]
+    },
+    {
+        "name": "Tantra Hills",
+        "coordinates": [
+            -0.2470818,
+            5.6447897
+        ]
+    },
+    {
+        "name": "Spot M",
+        "coordinates": [
+            -0.2586521,
+            5.6529735
+        ]
+    },
+    {
+        "name": "Tse Addo 'Last Stop'",
+        "coordinates": [
+            -0.1385354,
+            5.5876178
+        ]
+    },
+    {
+        "name": "Watermelon Junction",
+        "coordinates": [
+            -0.1416891,
+            5.5826903
+        ]
+    },
+    {
+        "name": "Fire",
+        "coordinates": [
+            -0.1410868,
+            5.5796773
+        ]
+    },
+    {
+        "name": "Container",
+        "coordinates": [
+            -0.1389655,
+            5.5752658
+        ]
+    },
+    {
+        "name": "Zenith",
+        "coordinates": [
+            -0.1450121,
+            5.5735155
+        ]
+    },
+    {
+        "name": "AMA",
+        "coordinates": [
+            -0.1464964,
+            5.5744905
+        ]
+    },
+    {
+        "name": "Kpogas",
+        "coordinates": [
+            -0.1502083,
+            5.5731197
+        ]
+    },
+    {
+        "name": "Palm Wine",
+        "coordinates": [
+            -0.1522422,
+            5.5763849
+        ]
+    },
+    {
+        "name": "Kpogas",
+        "coordinates": [
+            -0.1496981,
+            5.5726689
+        ]
+    },
+    {
+        "name": "Dome",
+        "coordinates": [
+            -0.2372213,
+            5.6451553
+        ]
+    },
+    {
+        "name": "Pharmacy",
+        "coordinates": [
+            -0.2490255,
+            5.6239171
+        ]
+    },
+    {
+        "name": "School Junction",
+        "coordinates": [
+            -0.250239,
+            5.6258614
+        ]
+    },
+    {
+        "name": "Nungua",
+        "coordinates": [
+            -0.0791144,
+            5.6022292
+        ]
+    },
+    {
+        "name": "Cold Store",
+        "coordinates": [
+            -0.085651,
+            5.5958154
+        ]
+    },
+    {
+        "name": "Brigade",
+        "coordinates": [
+            -0.0888278,
+            5.593783
+        ]
+    },
+    {
+        "name": "First Junction",
+        "coordinates": [
+            -0.0994342,
+            5.587495
+        ]
+    },
+    {
+        "name": "Kofi Annan",
+        "coordinates": [
+            -0.1126033,
+            5.5738488
+        ]
+    },
+    {
+        "name": "La Beach Hotel",
+        "coordinates": [
+            -0.138769,
+            5.5643143
+        ]
+    },
+    {
+        "name": "Trade Fair",
+        "coordinates": [
+            -0.1474347,
+            5.569156
+        ]
+    },
+    {
+        "name": "Second Juction",
+        "coordinates": [
+            -0.1416218,
+            5.5856485
+        ]
+    },
+    {
+        "name": "Villas",
+        "coordinates": [
+            -0.1543764,
+            5.5782488
+        ]
+    },
+    {
+        "name": "Home Touch",
+        "coordinates": [
+            -0.1681506,
+            5.587133
+        ]
+    },
+    {
+        "name": "Blue Gate",
+        "coordinates": [
+            -0.1147912,
+            5.6424103
+        ]
+    },
+    {
+        "name": "Signboard",
+        "coordinates": [
+            -0.1050209,
+            5.6380887
+        ]
+    },
+    {
+        "name": "Kpogas",
+        "coordinates": [
+            -0.1009769,
+            5.6353678
+        ]
+    },
+    {
+        "name": "Nungua Barrier",
+        "coordinates": [
+            -0.073752,
+            5.6139353
+        ]
+    },
+    {
+        "name": "Korle Bu",
+        "coordinates": [
+            -0.2308035,
+            5.5358482
+        ]
+    },
+    {
+        "name": "Korle-Bu Barber",
+        "coordinates": [
+            -0.2233271,
+            5.5369187
+        ]
+    },
+    {
+        "name": "Junction",
+        "coordinates": [
+            -0.2219614,
+            5.5378557
+        ]
+    },
+    {
+        "name": "Mortuary",
+        "coordinates": [
+            -0.2264995,
+            5.5430354
+        ]
+    },
+    {
+        "name": "Ayigbe Town",
+        "coordinates": [
+            -0.2314688,
+            5.5538409
+        ]
+    },
+    {
+        "name": "Total",
+        "coordinates": [
+            -0.2305061,
+            5.5594651
+        ]
+    },
+    {
+        "name": "Abossey Okai",
+        "coordinates": [
+            -0.2299216,
+            5.5604845
+        ]
+    },
+    {
+        "name": "Total",
+        "coordinates": [
+            -0.2310193,
+            5.5581698
+        ]
+    },
+    {
+        "name": "Mortuary",
+        "coordinates": [
+            -0.2263402,
+            5.5431598
+        ]
+    },
+    {
+        "name": "Bus Stop",
+        "coordinates": [
+            -0.30845,
+            5.5772391
+        ]
+    },
+    {
+        "name": "Bus Stop",
+        "coordinates": [
+            -0.2942497,
+            5.5767319
+        ]
+    },
+    {
+        "name": "Mallam Gbawe",
+        "coordinates": [
+            -0.3095373,
+            5.5767395
+        ]
+    },
+    {
+        "name": "Bola Junction",
+        "coordinates": [
+            -0.2870201,
+            5.5734026
+        ]
+    },
+    {
+        "name": "Total",
+        "coordinates": [
+            -0.2834062,
+            5.5735321
+        ]
+    },
+    {
+        "name": "Abeka Lapaz",
+        "coordinates": [
+            -0.2491035,
+            5.6069414
+        ]
+    },
+    {
+        "name": "Kwashieman",
+        "coordinates": [
+            -0.2678635,
+            5.5922469
+        ]
+    },
+    {
+        "name": "Been To",
+        "coordinates": [
+            -0.2715119,
+            5.5873038
+        ]
+    },
+    {
+        "name": "Circle Industrial Area",
+        "coordinates": [
+            -0.2194154,
+            5.5692159
+        ]
+    },
+    {
+        "name": "Fan Milk Junction",
+        "coordinates": [
+            -0.2228472,
+            5.5731943
+        ]
+    },
+    {
+        "name": "Ashfoam Junction",
+        "coordinates": [
+            -0.2241143,
+            5.582849
+        ]
+    },
+    {
+        "name": "Melcom",
+        "coordinates": [
+            -0.2269332,
+            5.5879449
+        ]
+    },
+    {
+        "name": "Mesco",
+        "coordinates": [
+            -0.2299199,
+            5.5907051
+        ]
+    },
+    {
+        "name": "Abeka Total",
+        "coordinates": [
+            -0.2335625,
+            5.597953
+        ]
+    },
+    {
+        "name": "Abeka Total",
+        "coordinates": [
+            -0.2335007,
+            5.5977942
+        ]
+    },
+    {
+        "name": "Melcom",
+        "coordinates": [
+            -0.2267337,
+            5.5878478
+        ]
+    },
+    {
+        "name": "Ashfoam Junction",
+        "coordinates": [
+            -0.2238648,
+            5.5823796
+        ]
+    },
+    {
+        "name": "Fan Milk Junction",
+        "coordinates": [
+            -0.2226925,
+            5.5727399
+        ]
+    },
+    {
+        "name": "Agape",
+        "coordinates": [
+            -0.329549,
+            5.6092164
+        ]
+    },
+    {
+        "name": "Waakye",
+        "coordinates": [
+            -0.327984,
+            5.6091768
+        ]
+    },
+    {
+        "name": "Tarrazzo",
+        "coordinates": [
+            -0.3120117,
+            5.6159829
+        ]
+    },
+    {
+        "name": "Offtown",
+        "coordinates": [
+            -0.3104681,
+            5.6178314
+        ]
+    },
+    {
+        "name": "Pentecost",
+        "coordinates": [
+            -0.3087766,
+            5.6192734
+        ]
+    },
+    {
+        "name": "Container",
+        "coordinates": [
+            -0.3069432,
+            5.6199694
+        ]
+    },
+    {
+        "name": "Block Factory",
+        "coordinates": [
+            -0.3058457,
+            5.6221945
+        ]
+    },
+    {
+        "name": "Pentecost Junction",
+        "coordinates": [
+            -0.3069008,
+            5.6255115
+        ]
+    },
+    {
+        "name": "Ablekuma Curve",
+        "coordinates": [
+            -0.3119583,
+            5.6271443
+        ]
+    },
+    {
+        "name": "Ablekuma",
+        "coordinates": [
+            -0.3102218,
+            5.6272416
+        ]
+    },
+    {
+        "name": "FanMilk Junction",
+        "coordinates": [
+            -0.2992254,
+            5.6218988
+        ]
+    },
+    {
+        "name": "Abeka Lapaz",
+        "coordinates": [
+            -0.2497374,
+            5.6068813
+        ]
+    },
+    {
+        "name": "Lapaz Community Hospital",
+        "coordinates": [
+            -0.2540407,
+            5.6088407
+        ]
+    },
+    {
+        "name": "Tabora Number2",
+        "coordinates": [
+            -0.2598571,
+            5.6060456
+        ]
+    },
+    {
+        "name": "Dega Junction",
+        "coordinates": [
+            -0.2756813,
+            5.615243
+        ]
+    },
+    {
+        "name": "Sowutuom Chopbar",
+        "coordinates": [
+            -0.2763563,
+            5.6174039
+        ]
+    },
+    {
+        "name": "Sowutuom Market",
+        "coordinates": [
+            -0.2768458,
+            5.6200398
+        ]
+    },
+    {
+        "name": "Sowutuom Last stop",
+        "coordinates": [
+            -0.2839341,
+            5.6249418
+        ]
+    },
+    {
+        "name": "Mambo",
+        "coordinates": [
+            -0.2856578,
+            5.6310887
+        ]
+    },
+    {
+        "name": "VRA",
+        "coordinates": [
+            -0.2928328,
+            5.6311431
+        ]
+    },
+    {
+        "name": "Mawulolo",
+        "coordinates": [
+            -0.2948661,
+            5.6267232
+        ]
+    },
+    {
+        "name": "FanMilk Junction",
+        "coordinates": [
+            -0.2993034,
+            5.6214767
+        ]
+    },
+    {
+        "name": "Pentecost Junction",
+        "coordinates": [
+            -0.306518,
+            5.6250111
+        ]
+    },
+    {
+        "name": "Pentecost",
+        "coordinates": [
+            -0.3090148,
+            5.6189845
+        ]
+    },
+    {
+        "name": "Offtown",
+        "coordinates": [
+            -0.3104668,
+            5.6177285
+        ]
+    },
+    {
+        "name": "Masalaashi",
+        "coordinates": [
+            -0.3134528,
+            5.6141756
+        ]
+    },
+    {
+        "name": "Agape Stop",
+        "coordinates": [
+            -0.3148843,
+            5.6126774
+        ]
+    },
+    {
+        "name": "Park",
+        "coordinates": [
+            -0.31806,
+            5.6089791
+        ]
+    },
+    {
+        "name": "Second Container",
+        "coordinates": [
+            -0.3231994,
+            5.6086775
+        ]
+    },
+    {
+        "name": "Jericho",
+        "coordinates": [
+            -0.3255068,
+            5.6087841
+        ]
+    },
+    {
+        "name": "Anlo-Afiadenyigba Junction",
+        "coordinates": [
+            0.9768297,
+            6.0528972
+        ]
+    },
+    {
+        "name": "Damongo Junction",
+        "coordinates": [
+            -1.2730969,
+            9.1232191
+        ]
+    },
+    {
+        "name": "Pobiman",
+        "coordinates": [
+            -0.3138179,
+            5.7352477
+        ]
+    },
+    {
+        "name": "Bus Stop",
+        "coordinates": [
+            -0.3103452,
+            5.7231592
+        ]
+    },
+    {
+        "name": "Mile 7",
+        "coordinates": [
+            -0.2396654,
+            5.6344511
+        ]
+    },
+    {
+        "name": "ABC Junction",
+        "coordinates": [
+            -0.2362948,
+            5.6291763
+        ]
+    },
+    {
+        "name": "Neoplan",
+        "coordinates": [
+            -0.2329536,
+            5.6240908
+        ]
+    },
+    {
+        "name": "Achimota Overhead",
+        "coordinates": [
+            -0.2303119,
+            5.6199311
+        ]
+    },
+    {
+        "name": "Achimota Old Station",
+        "coordinates": [
+            -0.2289824,
+            5.6151636
+        ]
+    },
+    {
+        "name": "St. Johns",
+        "coordinates": [
+            -0.2435942,
+            5.6398999
+        ]
+    },
+    {
+        "name": "Achimota Old Station",
+        "coordinates": [
+            -0.2294949,
+            5.6154576
+        ]
+    },
+    {
+        "name": "Achimota Overhead",
+        "coordinates": [
+            -0.2328125,
+            5.6234123
+        ]
+    },
+    {
+        "name": "Neoplan",
+        "coordinates": [
+            -0.2348668,
+            5.6263077
+        ]
+    },
+    {
+        "name": "Mile 7",
+        "coordinates": [
+            -0.2397776,
+            5.633939
+        ]
+    },
+    {
+        "name": "Chop bar",
+        "coordinates": [
+            -0.3008247,
+            5.7087008
+        ]
+    },
+    {
+        "name": "Shikpontele",
+        "coordinates": [
+            -0.308907,
+            5.7186596
+        ]
+    },
+    {
+        "name": "Macedonia",
+        "coordinates": [
+            -0.3143962,
+            5.7362667
+        ]
+    },
+    {
+        "name": "Adjringanor/Otanor",
+        "coordinates": [
+            -0.1345249,
+            5.6467064
+        ]
+    },
+    {
+        "name": "American House",
+        "coordinates": [
+            -0.1500724,
+            5.6475723
+        ]
+    },
+    {
+        "name": "Brewa",
+        "coordinates": [
+            -0.1617304,
+            5.6423748
+        ]
+    },
+    {
+        "name": "Accra End of the Motorway",
+        "coordinates": [
+            -0.176012,
+            5.6273481
+        ]
+    },
+    {
+        "name": "American House",
+        "coordinates": [
+            -0.1506845,
+            5.6483539
+        ]
+    },
+    {
+        "name": "Emmanuel Eye Clinic",
+        "coordinates": [
+            -0.1734169,
+            5.6299276
+        ]
+    },
+    {
+        "name": "Bawaleshie Second",
+        "coordinates": [
+            -0.1673192,
+            5.6418746
+        ]
+    },
+    {
+        "name": "WAEC",
+        "coordinates": [
+            -0.1994537,
+            5.5647504
+        ]
+    },
+    {
+        "name": "Circle",
+        "coordinates": [
+            -0.2148315,
+            5.5688481
+        ]
+    },
+    {
+        "name": "Ridge Hospital",
+        "coordinates": [
+            -0.1990446,
+            5.5612149
+        ]
+    },
+    {
+        "name": "Wass",
+        "coordinates": [
+            -0.1711675,
+            5.7045087
+        ]
+    },
+    {
+        "name": "Atomic First",
+        "coordinates": [
+            -0.1781295,
+            5.6672505
+        ]
+    },
+    {
+        "name": "Supermarket",
+        "coordinates": [
+            -0.1960281,
+            5.6673746
+        ]
+    },
+    {
+        "name": "Asofan New Station",
+        "coordinates": [
+            -0.2935134,
+            5.6434835
+        ]
+    },
+    {
+        "name": "Royco",
+        "coordinates": [
+            -0.2926079,
+            5.643878
+        ]
+    },
+    {
+        "name": "Abe Asi",
+        "coordinates": [
+            -0.2908475,
+            5.645239
+        ]
+    },
+    {
+        "name": "Pentecost Station",
+        "coordinates": [
+            -0.2902254,
+            5.6461724
+        ]
+    },
+    {
+        "name": "Curve",
+        "coordinates": [
+            -0.2901329,
+            5.6470345
+        ]
+    },
+    {
+        "name": "Transformer",
+        "coordinates": [
+            -0.2889648,
+            5.6470684
+        ]
+    },
+    {
+        "name": "Asofan Block Factory",
+        "coordinates": [
+            -0.286852,
+            5.6473502
+        ]
+    },
+    {
+        "name": "Chairman",
+        "coordinates": [
+            -0.2860262,
+            5.6492683
+        ]
+    },
+    {
+        "name": "Jojo Water",
+        "coordinates": [
+            -0.2850616,
+            5.6511327
+        ]
+    },
+    {
+        "name": "Asofan Old Station",
+        "coordinates": [
+            -0.2861017,
+            5.6539895
+        ]
+    },
+    {
+        "name": "Asofan School Juntion",
+        "coordinates": [
+            -0.2848819,
+            5.654395
+        ]
+    },
+    {
+        "name": "Presby",
+        "coordinates": [
+            -0.2836293,
+            5.6549402
+        ]
+    },
+    {
+        "name": "Abodwe Se",
+        "coordinates": [
+            -0.2817263,
+            5.6565743
+        ]
+    },
+    {
+        "name": "Soldier Line",
+        "coordinates": [
+            -0.2795708,
+            5.6574519
+        ]
+    },
+    {
+        "name": "2nd Power",
+        "coordinates": [
+            -0.2780861,
+            5.6578639
+        ]
+    },
+    {
+        "name": "1st Power",
+        "coordinates": [
+            -0.2766765,
+            5.6581227
+        ]
+    },
+    {
+        "name": "Market",
+        "coordinates": [
+            -0.2753539,
+            5.6584074
+        ]
+    },
+    {
+        "name": "Phobia",
+        "coordinates": [
+            -0.2712095,
+            5.6589448
+        ]
+    },
+    {
+        "name": "St John's Second",
+        "coordinates": [
+            -0.2441341,
+            5.6415091
+        ]
+    },
+    {
+        "name": "ABC Junction",
+        "coordinates": [
+            -0.2365493,
+            5.6288679
+        ]
+    },
+    {
+        "name": "Ofankor Taxi Rank",
+        "coordinates": [
+            -0.2671199,
+            5.657961
+        ]
+    },
+    {
+        "name": "Ofankor Taxi Rank",
+        "coordinates": [
+            -0.266959,
+            5.6581705
+        ]
+    },
+    {
+        "name": "Market",
+        "coordinates": [
+            -0.2755655,
+            5.6583093
+        ]
+    },
+    {
+        "name": "Soldier Line",
+        "coordinates": [
+            -0.2807267,
+            5.6569373
+        ]
+    },
+    {
+        "name": "Presby",
+        "coordinates": [
+            -0.2837851,
+            5.65482
+        ]
+    },
+    {
+        "name": "Asofan School Juntion",
+        "coordinates": [
+            -0.2848442,
+            5.6543416
+        ]
+    },
+    {
+        "name": "Asofan Block Factory",
+        "coordinates": [
+            -0.2868522,
+            5.6471244
+        ]
+    },
+    {
+        "name": "Curve",
+        "coordinates": [
+            -0.2898429,
+            5.6470841
+        ]
+    },
+    {
+        "name": "Pentecost Station",
+        "coordinates": [
+            -0.2903535,
+            5.6461268
+        ]
+    },
+    {
+        "name": "Royco",
+        "coordinates": [
+            -0.2927873,
+            5.6437336
+        ]
+    },
+    {
+        "name": "Phobia",
+        "coordinates": [
+            -0.2714869,
+            5.6588532
+        ]
+    },
+    {
+        "name": "Asofan Old Station",
+        "coordinates": [
+            -0.2860496,
+            5.6539463
+        ]
+    },
+    {
+        "name": "Jojo Water",
+        "coordinates": [
+            -0.2848142,
+            5.6507771
+        ]
+    },
+    {
+        "name": "Chairman",
+        "coordinates": [
+            -0.2861678,
+            5.648865
+        ]
+    },
+    {
+        "name": "Dome Pillar 2",
+        "coordinates": [
+            -0.2167042,
+            5.6531692
+        ]
+    },
+    {
+        "name": "Parakuo",
+        "coordinates": [
+            -0.2218822,
+            5.6418508
+        ]
+    },
+    {
+        "name": "Achimota Hospital",
+        "coordinates": [
+            -0.2188334,
+            5.6270468
+        ]
+    },
+    {
+        "name": "Six Pillars",
+        "coordinates": [
+            -0.2234181,
+            5.6210314
+        ]
+    },
+    {
+        "name": "Christian Village Jucntion",
+        "coordinates": [
+            -0.2149328,
+            5.6351546
+        ]
+    },
+    {
+        "name": "Parakuo",
+        "coordinates": [
+            -0.2218758,
+            5.6417743
+        ]
+    },
+    {
+        "name": "Container",
+        "coordinates": [
+            -0.2232849,
+            5.6429724
+        ]
+    },
+    {
+        "name": "SSNIT Flats",
+        "coordinates": [
+            -0.2732443,
+            5.5633137
+        ]
+    },
+    {
+        "name": "Alaba",
+        "coordinates": [
+            -0.2705688,
+            5.5640348
+        ]
+    },
+    {
+        "name": "Blue Lagoon",
+        "coordinates": [
+            -0.2708123,
+            5.5715646
+        ]
+    },
+    {
+        "name": "All Days",
+        "coordinates": [
+            -0.2686858,
+            5.5715268
+        ]
+    },
+    {
+        "name": "Bola",
+        "coordinates": [
+            -0.2674006,
+            5.571829
+        ]
+    },
+    {
+        "name": "Masalachi",
+        "coordinates": [
+            -0.2657927,
+            5.5723102
+        ]
+    },
+    {
+        "name": "Saint Anthony",
+        "coordinates": [
+            -0.2641928,
+            5.5728247
+        ]
+    },
+    {
+        "name": "Yellow Kiosk",
+        "coordinates": [
+            -0.2617768,
+            5.5731576
+        ]
+    },
+    {
+        "name": "Pentecost",
+        "coordinates": [
+            -0.2604247,
+            5.5732207
+        ]
+    },
+    {
+        "name": "Lotto Kiosk",
+        "coordinates": [
+            -0.2578471,
+            5.5733567
+        ]
+    },
+    {
+        "name": "Vice",
+        "coordinates": [
+            -0.2555019,
+            5.5730916
+        ]
+    },
+    {
+        "name": "Curve",
+        "coordinates": [
+            -0.2544244,
+            5.5724834
+        ]
+    },
+    {
+        "name": "1 plus 1",
+        "coordinates": [
+            -0.2536135,
+            5.5699995
+        ]
+    },
+    {
+        "name": "Mataheko Pharmacy",
+        "coordinates": [
+            -0.2513486,
+            5.568473
+        ]
+    },
+    {
+        "name": "Mataheko Police Quarters",
+        "coordinates": [
+            -0.249833,
+            5.5674461
+        ]
+    },
+    {
+        "name": "Peace Clinic",
+        "coordinates": [
+            -0.2473635,
+            5.5660382
+        ]
+    },
+    {
+        "name": "JT",
+        "coordinates": [
+            -0.245349,
+            5.5647406
+        ]
+    },
+    {
+        "name": "Las Palmas",
+        "coordinates": [
+            -0.2490504,
+            5.6068938
+        ]
+    },
+    {
+        "name": "Neoplan",
+        "coordinates": [
+            -0.2185294,
+            5.5687336
+        ]
+    },
+    {
+        "name": "State Transport",
+        "coordinates": [
+            -0.2255063,
+            5.565179
+        ]
+    },
+    {
+        "name": "Pamprom",
+        "coordinates": [
+            -0.2317319,
+            5.5626433
+        ]
+    },
+    {
+        "name": "Kaneshie Second Bridge",
+        "coordinates": [
+            -0.2354851,
+            5.5648934
+        ]
+    },
+    {
+        "name": "Kaneshie First Bridge",
+        "coordinates": [
+            -0.2373694,
+            5.566022
+        ]
+    },
+    {
+        "name": "First Light",
+        "coordinates": [
+            -0.2429732,
+            5.5692626
+        ]
+    },
+    {
+        "name": "Accra Academy",
+        "coordinates": [
+            -0.2455052,
+            5.5707697
+        ]
+    },
+    {
+        "name": "Mataheko Quarters",
+        "coordinates": [
+            -0.2475403,
+            5.5719739
+        ]
+    },
+    {
+        "name": "Atico",
+        "coordinates": [
+            -0.2511787,
+            5.5741643
+        ]
+    },
+    {
+        "name": "Hansonic",
+        "coordinates": [
+            -0.2529415,
+            5.5740151
+        ]
+    },
+    {
+        "name": "Mt Olivet",
+        "coordinates": [
+            -0.2679526,
+            5.5606572
+        ]
+    },
+    {
+        "name": "Abam Kofi",
+        "coordinates": [
+            -0.270854,
+            5.5616542
+        ]
+    },
+    {
+        "name": "Old School",
+        "coordinates": [
+            -0.2725079,
+            5.560424
+        ]
+    },
+    {
+        "name": "SSNIT Flats",
+        "coordinates": [
+            -0.2729045,
+            5.5618809
+        ]
+    },
+    {
+        "name": "Lapaz Market",
+        "coordinates": [
+            -0.2409133,
+            5.6085036
+        ]
+    },
+    {
+        "name": "Achimota Old Station",
+        "coordinates": [
+            -0.2293951,
+            5.6163912
+        ]
+    },
+    {
+        "name": "Achimota Overhead",
+        "coordinates": [
+            -0.2277045,
+            5.6120523
+        ]
+    },
+    {
+        "name": "Flat Top",
+        "coordinates": [
+            -0.2380801,
+            5.6090333
+        ]
+    },
+    {
+        "name": "Agbobloshie 2",
+        "coordinates": [
+            -0.2183046,
+            5.5484154
+        ]
+    },
+    {
+        "name": "Arena",
+        "coordinates": [
+            -0.2153515,
+            5.5455298
+        ]
+    },
+    {
+        "name": "Agbado",
+        "coordinates": [
+            -0.2158582,
+            5.5386122
+        ]
+    },
+    {
+        "name": "UTC",
+        "coordinates": [
+            -0.2172129,
+            5.5380858
+        ]
+    },
+    {
+        "name": "Korle-Bu Barber",
+        "coordinates": [
+            -0.2228491,
+            5.5368763
+        ]
+    },
+    {
+        "name": "Total",
+        "coordinates": [
+            -0.2288517,
+            5.5355965
+        ]
+    },
+    {
+        "name": "Awotsɛ Kojo",
+        "coordinates": [
+            -0.2327288,
+            5.5347944
+        ]
+    },
+    {
+        "name": "Mamprobi Post Office",
+        "coordinates": [
+            -0.2370463,
+            5.5338358
+        ]
+    },
+    {
+        "name": "Mamprobi Methodist",
+        "coordinates": [
+            -0.2438564,
+            5.535064
+        ]
+    },
+    {
+        "name": "Akoshi Junction Mamprobi",
+        "coordinates": [
+            -0.2463636,
+            5.5355357
+        ]
+    },
+    {
+        "name": "St.Marys",
+        "coordinates": [
+            -0.2490921,
+            5.5386984
+        ]
+    },
+    {
+        "name": "Banana Inn Transformer",
+        "coordinates": [
+            -0.2532018,
+            5.5408294
+        ]
+    },
+    {
+        "name": "Banana Inn",
+        "coordinates": [
+            -0.255041,
+            5.5418646
+        ]
+    },
+    {
+        "name": "Mango Down",
+        "coordinates": [
+            -0.2565153,
+            5.5428385
+        ]
+    },
+    {
+        "name": "Akoo Store",
+        "coordinates": [
+            -0.2552249,
+            5.5497411
+        ]
+    },
+    {
+        "name": "Zambrama Line",
+        "coordinates": [
+            -0.2570439,
+            5.5496153
+        ]
+    },
+    {
+        "name": "Ridge",
+        "coordinates": [
+            -0.1966421,
+            5.5600459
+        ]
+    },
+    {
+        "name": "Children's Park First",
+        "coordinates": [
+            -0.200125,
+            5.5555022
+        ]
+    },
+    {
+        "name": "Children's Park Second",
+        "coordinates": [
+            -0.1988221,
+            5.5572402
+        ]
+    },
+    {
+        "name": "MTN Office/ADB",
+        "coordinates": [
+            -0.1955907,
+            5.5619867
+        ]
+    },
+    {
+        "name": "Zambrama Line",
+        "coordinates": [
+            -0.2573485,
+            5.5496889
+        ]
+    },
+    {
+        "name": "Station",
+        "coordinates": [
+            -0.2552394,
+            5.5470054
+        ]
+    },
+    {
+        "name": "Five Five",
+        "coordinates": [
+            -0.2540345,
+            5.5469124
+        ]
+    },
+    {
+        "name": "Masalatsi",
+        "coordinates": [
+            -0.2540688,
+            5.5456878
+        ]
+    }
+]
